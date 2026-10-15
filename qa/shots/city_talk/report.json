@@ -1,0 +1,269 @@
+{
+  "beats": [
+    {
+      "t": 0.935,
+      "tag": "start_bachson"
+    },
+    {
+      "t": 3.154,
+      "tag": "beat_bs_city"
+    },
+    {
+      "t": 7.943,
+      "tag": "nhan_ra_ky_khong_nhin"
+    },
+    {
+      "t": 10.864,
+      "tag": "city_d1_Sáng_suong"
+    },
+    {
+      "t": 17.622,
+      "tag": "nhan_ra_co_ly"
+    },
+    {
+      "t": 17.837,
+      "tag": "city_d1_Chiều_yvien"
+    },
+    {
+      "t": 21.883,
+      "tag": "nhan_ra_khong_phai_minh"
+    },
+    {
+      "t": 25.251,
+      "tag": "mark_chao Mảnh Sành A"
+    },
+    {
+      "t": 25.253,
+      "tag": "mark_chao Mảnh Sành B"
+    },
+    {
+      "t": 31.29,
+      "tag": "chao_slow Mảnh Sành B"
+    },
+    {
+      "t": 32.866,
+      "tag": "impact_perfect_manh_dist_0.50"
+    },
+    {
+      "t": 32.874,
+      "tag": "mark_ho Mảnh Sành B"
+    },
+    {
+      "t": 33.294,
+      "tag": "chao_slow Mảnh Sành A"
+    },
+    {
+      "t": 34.527,
+      "tag": "impact_perfect_manh_dist_0.50"
+    },
+    {
+      "t": 34.53,
+      "tag": "mark_ho Mảnh Sành A"
+    },
+    {
+      "t": 37.926,
+      "tag": "impact_perfect_manh_dist_0.50"
+    },
+    {
+      "t": 37.929,
+      "tag": "mark_ho Mảnh Sành B"
+    },
+    {
+      "t": 39.593,
+      "tag": "the_bo_into_ho"
+    },
+    {
+      "t": 41.587,
+      "tag": "city_d1_Tối_cuacong"
+    },
+    {
+      "t": 46.043,
+      "tag": "nhan_ra_tung_chua"
+    },
+    {
+      "t": 46.209,
+      "tag": "city_d2_Sáng_nharua"
+    },
+    {
+      "t": 50.649,
+      "tag": "nhan_ra_tho_no"
+    },
+    {
+      "t": 50.816,
+      "tag": "city_d2_Chiều_den"
+    },
+    {
+      "t": 50.817,
+      "tag": "beat_bs_palace"
+    },
+    {
+      "t": 447.929,
+      "tag": "deal_refuse"
+    },
+    {
+      "t": 454.441,
+      "tag": "story_done"
+    }
+  ],
+  "fps": [
+    2.0,
+    1.0,
+    60.0,
+    60.0,
+    60.0,
+    60.0,
+    37.0,
+    37.0,
+    60.0,
+    45.0,
+    45.0,
+    60.0,
+    60.0,
+    45.0,
+    45.0,
+    58.0,
+    58.0,
+    61.0,
+    61.0,
+    60.0,
+    60.0,
+    44.0,
+    39.0,
+    39.0,
+    46.0,
+    60.0,
+    60.0,
+    59.0,
+    59.0,
+    60.0,
+    60.0,
+    60.0,
+    60.0,
+    46.0,
+    46.0,
+    50.0,
+    50.0,
+    57.0,
+    57.0,
+    44.0,
+    60.0,
+    60.0,
+    52.0,
+    52.0,
+    52.0,
+    52.0,
+    51.0,
+    51.0,
+    53.0,
+    53.0,
+    54.0,
+    54.0,
+    57.0,
+    57.0,
+    53.0,
+    33.0,
+    33.0,
+    60.0,
+    60.0,
+    50.0,
+    26.0,
+    36.0,
+    36.0,
+    60.0,
+    60.0,
+    60.0,
+    44.0,
+    44.0,
+    44.0,
+    44.0,
+    59.0,
+    59.0,
+    60.0,
+    60.0,
+    54.0,
+    48.0,
+    48.0,
+    59.0,
+    59.0,
+    60.0,
+    60.0,
+    60.0,
+    60.0,
+    44.0,
+    44.0,
+    45.0,
+    45.0,
+    45.0,
+    18.0,
+    18.0,
+    58.0,
+    58.0,
+    59.0,
+    38.0,
+    19.0,
+    3.0,
+    6.0,
+    4.0,
+    4.0,
+    5.0,
+    3.0,
+    27.0,
+    27.0,
+    24.0,
+    18.0,
+    18.0,
+    55.0,
+    20.0,
+    20.0,
+    59.0,
+    59.0,
+    15.0,
+    15.0,
+    59.0,
+    59.0,
+    61.0,
+    61.0,
+    60.0,
+    60.0,
+    53.0,
+    53.0,
+    57.0,
+    57.0
+  ],
+  "fps_avg": 46.5934959349594,
+  "fps_min": 1.0,
+  "notes": [],
+  "seconds": 454.443,
+  "shots": [
+    "c_d1_0",
+    "bs12_sotro",
+    "bs12b_pk395",
+    "c_d1_1",
+    "bs12y_yvien",
+    "bs13_chen",
+    "c_d1_2",
+    "bs16_nong",
+    "b_manh_tinh_r1",
+    "v_stage_1",
+    "v_stage_2",
+    "v_stage_3",
+    "b_attack_manh_tinh",
+    "b_impact_manh_tinh",
+    "b_manh_tinh_r2",
+    "b_menu_lead",
+    "b_nhatnet_hit",
+    "b_nhatnet_wind",
+    "b_stroke_manh_tinh",
+    "b_summary_manh_tinh",
+    "c_d2_0",
+    "c_d2_1",
+    "bs14_tranh",
+    "bs20_arrest",
+    "bs21_dien",
+    "bs22_hall",
+    "name_card",
+    "bs23_tay",
+    "bs24_offer",
+    "choice"
+  ]
+}

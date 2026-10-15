@@ -1,0 +1,103 @@
+BS-107	Tối rồi. Cổng các tầng đóng hết rồi.
+BS-108	Không có việc thì đi chỗ khác.
+BX-020	Ngồi bên bể rửa, nhìn người ta rửa tay.
+BX-021	Ngồi đợi tiếng chuông cổng.
+BX-022	Về chỗ ngủ trong nhà kho của bà Sương.
+BS-112	Nước lạnh.
+BS-113	Người gánh hòm cho bà Sương đấy à?
+BS-114	Ở đây thấy gì thì báo cho Ty. Báo đúng, Ty sẽ nhớ.
+BS-115	Thấy gì thì cứ báo.
+BS-116	Ông già ở Nhà Rửa.
+BS-117	Chị Gấm ở Nhà Rửa.
+BS-118	Không thấy ai.
+BS-119	Ừ. Cứ để Ty lo.
+BX-023	Lên Y Viện lấy mấy gói thuốc cho tôi.
+BX-024	Mang hòm ra Sân Tro. Người của Hội Y đang đợi.
+BX-025	Hòm hôm nay nhẹ đấy. Đi nhanh rồi về.
+BS-123	Hòm nặng trĩu. Người qua đường nhìn cái hòm, chẳng ai nhìn người đang gánh.
+BS-124	Hôm nay mang hòm lên Dinh Ty. Hội Y phải trình sổ thuốc cho Ty.
+BS-125	Đặt hòm ở kia. Đứng chờ.
+BS-126	Chánh Ty gọi. Đừng động vào thứ gì.
+BS-127	Sổ Tro, Tầng Rửa
+BS-128	Mỗi dòng ghi một người, có ba cột: trắng, xám, đen. Lật mấy chục trang, cột đen vẫn trống trơn.
+BS-129	Các sắc, cuối tập
+BS-130	Cuối tập là các tờ sắc. Nét chữ tờ nào cũng giống nhau. Dòng cuối ghi "Chánh Ty Ngọc Khiết soạn", bên dưới là ấn của Điện.
+BS-131	Quyển mỏng kẹp giữa
+BS-132	Kẹp giữa Sổ Tro là một quyển mỏng. Bên cạnh mỗi tên là một con số. Trang cuối đóng dấu của một nhà buôn Vạn Thư.
+BS-133	Sổ Tro, tập đầu
+BS-134	Tập đầu tiên, năm PK 21. Mực đã nhạt: "Xám thì giữ lại ở Nhà Rửa, đợi Bà."
+BS-135	Sổ Tro, tập PK 395
+BS-136	Tập năm PK 395. "Nhà (tro che mất tên), Tầng Rửa, Luật Cả Nhà. Năm người. Trẻ nhỏ, chưa tên."
+BS-137	Xong rồi thì đi.
+BS-138	Tối mai ra sau Dinh Ty. Có mấy cái hòm cần khiêng.
+BS-139	Đi đi. Ở đây lâu quá, người ta để ý đấy.
+BS-140	Ai đấy? Người lạ à? Từ Vô Danh Cốc lên sao?
+BS-141	Lúa còn sống không?
+BS-142	Còn ạ. Chỗ trắng trên chân thôi lan rồi.
+BS-143	...Ừ.
+BS-144	Nó theo bà xuống Cửa Cống chữa cho người trong trại. Người ta bắt nó chứ không bắt bà. Bà còn chữa cho nhà Chánh Ty cơ mà.
+BS-145	Thử tro ở cổng thì biết được gì ạ?
+BS-146	Ngồi xuống đây.
+BS-147	Cái chén men rạn
+BS-149	Tro có biết Nghiệt là gì đâu. Nó chỉ chui vào kẽ thôi. Da bị Nghiệt chạm cũng có lớp men rạn như cái chén này, nên tro mới bám vào.
+BS-150	Tay bà Mẫn
+BS-152	Tay bà ngâm thuốc suốt ba mươi năm, nứt hết cả rồi. Ra cổng thử tro, bà cũng bị tính là xám thôi.
+BS-153	Ba trăm năm nay, trong thành có ai bị Nghiệt chạm đâu. Thế mà năm nào cũng có người bị thử ra xám.
+BS-154	Tối muốn xuống trại thì tìm Cửa Cống ở góc quảng trường. Cẩn thận, đừng để người áo lam trông thấy.
+BS-155	Tối nhớ đặt chén lên bậc cửa.
+BS-156	Rửa tay chưa? Rồi thì vào đi.
+BS-157	Tranh thờ
+BS-158	Thầy của Bà đấy. Một nhát chém, người sạch một bên, người bẩn một bên.
+BS-159	Ông cháu bổ củi đâu có chém kiểu ấy.
+BS-160	Ông cháu thì biết cái gì.
+BS-162	Nét chém trong tranh không dừng lại ở đâu. Nó kéo thẳng xuống tận mép tranh.
+BS-163	Sứ Giả ngoài cổng cũng từ lòng thành của dân mình mà ra. Nó có đụng đến ai trong thành đâu.
+BS-164	Tối về nhớ đặt một chén lên bậc. Nhà nào cũng đặt cả.
+BS-165	Sáng nay người của Ty xuống đưa ông ấy ra cổng. Ông ấy chẳng mang theo thứ gì.
+BS-166	Ông ấy ngủ rồi. Cứ để ông ấy ngủ.
+BS-167	Tìm ai? Đây là chỗ giặt đồ liệm. Người trên kia chẳng xuống đây đâu.
+BS-168	Cứ để người ta vào, Gấm.
+BS-169	Người gánh hòm cho mụ Sương phải không? Ngồi đi. Khoan, đừng ngồi chỗ ấy. Chỗ lõm kia là chỗ Bà từng ngồi.
+BS-170	Bà nào ạ?
+BS-171	Bà trên Điện ấy.
+BS-172	Năm tôi bảy tuổi, tay bị Nghiệt chạm. Thử tro ra xám, người ta đưa tôi xuống đây.
+BS-173	Bà ngồi đúng chỗ ấy, nắm cổ tay tôi rồi cạo lớp men đi. Chỉ còn cái sẹo này.
+BS-174	Tay ra xám mà không bị đuổi ạ?
+BS-175	Hồi ấy xám thì giữ lại, chờ Bà rửa men. Sau này Bà không xuống nữa. Từ đó, cứ xám là bị đuổi.
+BS-176	Ông lại kể chuyện ngày xưa rồi.
+BS-177	Cái chén ngoài bậc là tôi đặt cho Bà. Không phải cho thứ ngoài cổng ấy.
+BS-178	Đặt hòm lên xe. Cẩn thận đấy.
+BS-179	Người áo lam dẫn ba người ra từ cửa sau Dinh Ty. Tay họ bị trói lỏng. Họ trèo lên xe rồi chui xuống dưới tấm vải trắng.
+BS-180	Ba người. Đúng như trong sổ.
+BS-181	Ba người.
+BS-182	Anh Vững ngồi ở đầu xe. Anh cúi mặt, không ngẩng lên.
+BS-183	Họ đi đâu vậy?
+BS-184	Đi chữa bệnh. Ở Vạn Thư, người ta hiểu về men hơn ở đây. Tôi đã cứu được hai người rồi.
+BS-185	Thế còn những người khác?
+BS-186	Về ngủ đi.
+BS-187	Cửa Cống thấp, phải cúi gập người mới chui qua được. Nước thải ngập đến đầu gối.
+BS-188	Lại xuống đây à? Ngồi đi. Trên ấy có ai lo cho cháu ăn đâu.
+BS-189	Bà ơi, năm PK 395 có nhà nào ở Tầng Rửa bị đuổi, mang theo một đứa bé chưa đặt tên không?
+BS-190	Cái nong của bà Lành
+BS-192	Nhà ông Thục. Năm người, đủ cả năm mảnh đây.
+BS-193	Đứa bé không qua nổi mùa đông đầu tiên.
+BS-194	Sao tự dưng hỏi chuyện ấy?
+BS-195	...Không có gì ạ.
+BS-196	Năm ấy có đoàn người phương bắc ở nhờ trại mấy tuần. Họ mang theo một đứa bé, chẳng cho ai bế. Khăn quấn nó có ô vuông như bàn cờ. Rồi cả đoàn đi về phía đèo.
+BS-197	Bố tôi bị đánh roi ở Sân Tro. Chỉ vì cho một người lạ qua cổng.
+BS-198	Bà ơi! Nó lại xuống rồi!
+BS-199	Tay trắng thò vào lều. Mảnh Sành bò theo sau.
+BS-201	Mấy đêm nay nó xuống sớm hơn rồi.
+BS-202	Phải về qua Cửa Cống trước khi chuông cổng vang lên.
+BS-203	Người gánh hòm cho bà Sương phải không? Có người báo lên rồi. Đưa tay đây.
+BS-207	Tay cháu nứt vì gánh hòm.
+BS-208	Chị Gấm ở Nhà Rửa cũng bị xám, sao chị ấy vẫn ở trong thành?
+BS-209	...Giữ lại.
+BS-210	Bị giữ ở Dinh Ty đến chiều. Không ai hỏi thêm câu nào.
+BS-211	...Xám nhạt. Đi đi.
+BS-212	Gấm nào? ...Thôi, đi đi. Ty sẽ xuống Nhà Rửa.
+BX-026	Một
+BX-027	Hai
+BX-028	Ba
+BX-029	Bốn
+BX-030	Năm

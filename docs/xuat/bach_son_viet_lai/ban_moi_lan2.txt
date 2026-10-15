@@ -1,0 +1,64 @@
+BX-007	Sáng
+BX-008	Chiều
+BX-009	Tối
+BS-213	Bà Mẫn xoa tro lên cái chén men rạn rồi dội nước. Kẽ rạn vẫn đen. Da bị Nghiệt chạm cũng có lớp men rạn như thế.
+BS-214	Bà Mẫn xoa tro lên tay mình. Ba mươi năm ngâm thuốc, tay bà nứt hết. Thử tro cũng ra xám.
+BS-215	Sổ Tro, cột "đen" của người trong thành. Lật mấy chục tập vẫn không có dòng nào.
+BS-216	Sắc suốt ba mươi lăm năm nay đều cùng một nét chữ. Cuối mỗi tờ ghi "Chánh Ty Ngọc Khiết soạn", bên dưới đóng ấn của Điện.
+BS-217	Một quyển sổ mỏng kẹp trong Sổ Tro. Bên cạnh tên mỗi người là một con số. Trang cuối đóng dấu của một nhà buôn Vạn Thư.
+BS-218	Sổ Tro tập đầu, năm PK 21: "Xám thì giữ lại ở Nhà Rửa, đợi Bà."
+BS-219	Sổ Tro tập PK 395. Một nhà ở Tầng Rửa, năm người. Dòng cuối ghi "trẻ nhỏ, chưa tên". Cũng năm ấy, mình bị bỏ ở cửa đèo.
+BS-220	Bà Lành kể, đứa bé nhà ấy không qua được mùa đông đầu. Năm đó có đoàn người phương bắc mang theo một đứa bé quấn khăn kẻ ô bàn cờ, đi về phía đèo.
+BS-221	Tối hôm ấy, sau Dinh Ty, người của Ty dẫn ba người bị đuổi lên xe trắng. Bà Sương trả tiền.
+BS-222	Đền Thầy có bức tranh vẽ một nhát chém chia người sạch và người bẩn. Người coi đền bảo Sứ Giả ngoài cổng sinh ra từ lòng thành của dân.
+BS-223	Lúc tay nó chạm vào mình ở trại, mình thấy những ô cửa sáng đèn trong thành. Người đứng sau lớp giấy nhìn xuống. Trên bậc cửa nhà nào cũng có chén sứ.
+BS-224	Ông Sẹo kể, năm bảy tuổi ông bị Nghiệt chạm. Bà tự tay rửa men cho ông ở Nhà Rửa. Rồi có một năm Bà không xuống nữa.
+BS-225	Anh Vững ngồi ở đầu xe trắng. Anh không ngẩng lên.
+BS-226	Đêm cuối, mình không xuống trại. Tay nó thò tận vào lều. Ông Bảy bán than hóa sứ ngay trước cửa lều.
+BS-227	Cái cổng có lý do để tồn tại. Tro phát hiện được dấu Nghiệt chạm, nhưng tay nứt vì vôi, thuốc hay gánh cũng ra xám.
+BS-228	Bà đóng ấn mà không nhìn. Sắc nào cũng do Chánh Ty soạn. Cột đen trống suốt ba trăm năm mà sắc vẫn được ban xuống.
+BS-229	Người bị đuổi không biến mất. Tên họ bị bán, rồi họ bị đưa lên xe trắng sang Vạn Thư.
+BS-230	Cả thành đang thờ thứ săn người ngoài cổng. Nó sinh ra từ nỗi sợ sau những ô cửa trong thành.
+BS-231	Ngày trước, người bị thử ra xám được giữ ở Nhà Rửa để chờ Bà rửa men. Bà từng chữa cho họ, không đuổi họ đi.
+BS-232	Đứa trẻ chưa tên trong sổ năm PK 395 không phải mình.
+BS-244	Sổ ghi: thêm một điều thấy (Tab)
+BX-010	Nhận ra:
+BS-246	Nghi tăng
+BS-247	Nghi giảm
+BX-011	Ngày %d
+BS-234	Ba ngày tới Lễ Quét Vôi
+BX-012	Hai ngày tới Lễ Quét Vôi
+BX-013	Mai là Lễ Quét Vôi
+BX-014	Ngày %d · %s
+BS-105	Ngoài Sân Tro có tiếng roi quất. Người qua đường bảo lão gác già bị phạt vì làm ướt tro cho người lạ.
+BS-106	Đêm qua tay nó thò vào tận lều. Ông Bảy bán than hóa sứ ngay trước cửa lều.
+BS-249	Gánh hòm cho bà Sương
+BS-251	Vào Nhà Rửa
+BS-252	Chui qua Cửa Cống
+BS-253	Lên Tầng Giữa
+BS-254	Cổng tầng đã đóng
+BX-015	Ngồi đợi tới
+BX-016	chiều
+BX-017	tối
+BX-018	sáng mai
+BS-256	Xuống Tầng Rửa
+BS-257	Vào Y Viện
+BS-258	Dinh Ty
+BS-259	Lên Tầng Đền
+BS-260	Ra sau Dinh Ty
+BS-261	Xuống Tầng Giữa
+BS-262	Vào Đền Thầy
+BX-019	%s. Đi đâu tùy mình (Tab: Sổ ghi)
+BS-107	Tối rồi. Cổng các tầng đóng cả rồi.
+BS-108	Không có việc thì đi chỗ khác.
+BX-020	Ngồi bên bể rửa, nhìn người ta rửa tay.
+BX-021	Ngồi đợi tiếng chuông cổng.
+BX-022	Trở về chỗ ngủ trong nhà kho của bà Sương.
+BS-112	Nước lạnh.
+BS-113	Người gánh hòm cho bà Sương phải không?
+BS-114	Ở đây thấy gì thì báo cho Ty. Tin nào đúng, Ty đều nhớ.
+BS-115	Thấy gì thì cứ báo.
+BS-116	Ông già ở Nhà Rửa.
+BS-117	Chị Gấm ở Nhà Rửa.
+BS-118	Không thấy ai.
+BS-119	Ừ. Cứ để Ty lo.

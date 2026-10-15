@@ -1,0 +1,51 @@
+{
+  "beats": [
+    {
+      "t": 0.727,
+      "tag": "start_duel"
+    },
+    {
+      "t": 5.252,
+      "tag": "impact_good_manh_dist_0.50"
+    },
+    {
+      "t": 8.193,
+      "tag": "impact_perfect_manh_dist_0.50"
+    },
+    {
+      "t": 11.272,
+      "tag": "duel_win"
+    }
+  ],
+  "fps": [
+    17.0,
+    17.0,
+    44.0,
+    26.0,
+    26.0,
+    62.0,
+    62.0,
+    38.0,
+    31.0,
+    62.0,
+    62.0,
+    61.0,
+    61.0,
+    60.0,
+    60.0,
+    60.0,
+    60.0
+  ],
+  "fps_avg": 47.5882352941176,
+  "fps_min": 17.0,
+  "notes": [],
+  "seconds": 11.274,
+  "shots": [
+    "b_manh_tinh_r1",
+    "b_stroke_manh_tinh",
+    "b_attack_manh_tinh",
+    "b_impact_manh_tinh",
+    "b_manh_tinh_r2",
+    "b_summary_manh_tinh"
+  ]
+}

@@ -1,0 +1,1039 @@
+{
+  "beats": [
+    {
+      "t": 6.182,
+      "tag": "black"
+    },
+    {
+      "t": 6.226,
+      "tag": "enter_new"
+    },
+    {
+      "t": 7.141,
+      "tag": "world_built"
+    },
+    {
+      "t": 7.211,
+      "tag": "beat_morning"
+    },
+    {
+      "t": 7.221,
+      "tag": "reveal_start"
+    },
+    {
+      "t": 74.939,
+      "tag": "beat_incident"
+    },
+    {
+      "t": 90.639,
+      "tag": "mark_chao Mảnh Sành A"
+    },
+    {
+      "t": 90.645,
+      "tag": "mark_chao Mảnh Sành B"
+    },
+    {
+      "t": 90.647,
+      "tag": "mark_chao Mảnh Sành C"
+    },
+    {
+      "t": 102.838,
+      "tag": "chao_slow Mảnh Sành B"
+    },
+    {
+      "t": 106.263,
+      "tag": "impact_miss_manh_dist_0.50"
+    },
+    {
+      "t": 106.711,
+      "tag": "chao_slow Mảnh Sành C"
+    },
+    {
+      "t": 108.498,
+      "tag": "impact_good_manh_dist_0.50"
+    },
+    {
+      "t": 109.018,
+      "tag": "chao_slow Mảnh Sành A"
+    },
+    {
+      "t": 110.824,
+      "tag": "impact_miss_manh_dist_0.50"
+    },
+    {
+      "t": 114.403,
+      "tag": "mark_chao Mảnh Sành A"
+    },
+    {
+      "t": 114.411,
+      "tag": "mark_chao Mảnh Sành B"
+    },
+    {
+      "t": 114.413,
+      "tag": "mark_chao Mảnh Sành C"
+    },
+    {
+      "t": 114.793,
+      "tag": "chao_slow Mảnh Sành C"
+    },
+    {
+      "t": 114.908,
+      "tag": "chao_slow Mảnh Sành B"
+    },
+    {
+      "t": 115.025,
+      "tag": "chao_slow Mảnh Sành A"
+    },
+    {
+      "t": 120.699,
+      "tag": "impact_miss_manh_dist_0.50"
+    },
+    {
+      "t": 122.485,
+      "tag": "impact_good_manh_dist_0.50"
+    },
+    {
+      "t": 124.926,
+      "tag": "mark_chao Mảnh Sành C"
+    },
+    {
+      "t": 141.847,
+      "tag": "impact_miss_boss_dist_3.03"
+    },
+    {
+      "t": 141.924,
+      "tag": "lua_touched 1 (round 1, guarding false)"
+    },
+    {
+      "t": 143.591,
+      "tag": "impact_good_boss_dist_3.03"
+    },
+    {
+      "t": 143.606,
+      "tag": "lua_touched 2 (round 1, guarding false)"
+    },
+    {
+      "t": 147.296,
+      "tag": "impact_good_boss_dist_3.54"
+    },
+    {
+      "t": 147.993,
+      "tag": "impact_good_boss_dist_3.54"
+    },
+    {
+      "t": 150.996,
+      "tag": "impact_good_boss_dist_4.55"
+    },
+    {
+      "t": 151.644,
+      "tag": "impact_good_boss_dist_4.55"
+    },
+    {
+      "t": 152.578,
+      "tag": "impact_good_boss_dist_4.55"
+    },
+    {
+      "t": 153.245,
+      "tag": "impact_good_boss_dist_4.55"
+    },
+    {
+      "t": 154.842,
+      "tag": "impact_good_boss_dist_4.55"
+    },
+    {
+      "t": 156.754,
+      "tag": "impact_good_boss_dist_5.07"
+    },
+    {
+      "t": 157.454,
+      "tag": "impact_good_boss_dist_5.07"
+    },
+    {
+      "t": 159.421,
+      "tag": "impact_good_boss_dist_5.58"
+    },
+    {
+      "t": 159.428,
+      "tag": "lua_touched 3 (round 6, guarding false)"
+    },
+    {
+      "t": 160.121,
+      "tag": "impact_good_boss_dist_5.58"
+    },
+    {
+      "t": 160.821,
+      "tag": "battle_lost_retry"
+    },
+    {
+      "t": 163.533,
+      "tag": "impact_perfect_boss_dist_3.03"
+    },
+    {
+      "t": 163.537,
+      "tag": "mark_ho Trắng Tay"
+    },
+    {
+      "t": 164.405,
+      "tag": "impact_perfect_boss_dist_3.03"
+    },
+    {
+      "t": 167.411,
+      "tag": "the_bo_into_ho"
+    },
+    {
+      "t": 167.477,
+      "tag": "mark_ran Trắng Tay"
+    },
+    {
+      "t": 173.85,
+      "tag": "the_quet_bursts_ran"
+    },
+    {
+      "t": 173.865,
+      "tag": "mark_chao Trắng Tay"
+    },
+    {
+      "t": 174.017,
+      "tag": "chao_slow Trắng Tay"
+    },
+    {
+      "t": 175.65,
+      "tag": "mark_ran Trắng Tay"
+    },
+    {
+      "t": 179.373,
+      "tag": "impact_perfect_boss_dist_5.07"
+    },
+    {
+      "t": 179.39,
+      "tag": "mark_ho Trắng Tay"
+    },
+    {
+      "t": 179.926,
+      "tag": "impact_perfect_boss_dist_5.07"
+    },
+    {
+      "t": 187.622,
+      "tag": "beat_night"
+    },
+    {
+      "t": 195.259,
+      "tag": "beat_departure"
+    },
+    {
+      "t": 209.614,
+      "tag": "beat_bs_arrive"
+    },
+    {
+      "t": 219.043,
+      "tag": "beat_bs_camp"
+    },
+    {
+      "t": 228.955,
+      "tag": "beat_bs_night"
+    },
+    {
+      "t": 235.674,
+      "tag": "impact_perfect_manh_dist_0.50"
+    },
+    {
+      "t": 235.676,
+      "tag": "mark_ho Mảnh Sành A"
+    },
+    {
+      "t": 237.543,
+      "tag": "impact_perfect_manh_dist_0.50"
+    },
+    {
+      "t": 237.56,
+      "tag": "mark_ho Mảnh Sành B"
+    },
+    {
+      "t": 239.017,
+      "tag": "impact_perfect_manh_dist_0.50"
+    },
+    {
+      "t": 239.034,
+      "tag": "mark_ho Mảnh Sành C"
+    },
+    {
+      "t": 243.274,
+      "tag": "impact_perfect_manh_dist_0.50"
+    },
+    {
+      "t": 243.278,
+      "tag": "mark_ho Mảnh Sành B"
+    },
+    {
+      "t": 244.766,
+      "tag": "impact_perfect_manh_dist_0.50"
+    },
+    {
+      "t": 244.779,
+      "tag": "mark_ho Mảnh Sành C"
+    },
+    {
+      "t": 247.064,
+      "tag": "the_bo_into_ho"
+    },
+    {
+      "t": 248.871,
+      "tag": "impact_perfect_manh_dist_0.50"
+    },
+    {
+      "t": 248.879,
+      "tag": "mark_ho Mảnh Sành C"
+    },
+    {
+      "t": 254.07,
+      "tag": "beat_bs_caravan"
+    },
+    {
+      "t": 261.122,
+      "tag": "beat_bs_gate"
+    },
+    {
+      "t": 269.476,
+      "tag": "gate_can"
+    },
+    {
+      "t": 272.824,
+      "tag": "beat_bs_inside"
+    },
+    {
+      "t": 276.706,
+      "tag": "beat_bs_city"
+    },
+    {
+      "t": 282.432,
+      "tag": "nhan_ra_ky_khong_nhin"
+    },
+    {
+      "t": 285.762,
+      "tag": "city_d1_Sáng_suong"
+    },
+    {
+      "t": 291.84,
+      "tag": "nhan_ra_co_ly"
+    },
+    {
+      "t": 292.051,
+      "tag": "city_d1_Chiều_yvien"
+    },
+    {
+      "t": 296.889,
+      "tag": "nhan_ra_khong_phai_minh"
+    },
+    {
+      "t": 300.804,
+      "tag": "mark_chao Mảnh Sành A"
+    },
+    {
+      "t": 300.813,
+      "tag": "mark_chao Mảnh Sành B"
+    },
+    {
+      "t": 308.094,
+      "tag": "chao_slow Mảnh Sành A"
+    },
+    {
+      "t": 310.412,
+      "tag": "impact_perfect_manh_dist_0.50"
+    },
+    {
+      "t": 310.415,
+      "tag": "mark_ho Mảnh Sành A"
+    },
+    {
+      "t": 310.865,
+      "tag": "chao_slow Mảnh Sành B"
+    },
+    {
+      "t": 312.115,
+      "tag": "impact_perfect_manh_dist_0.50"
+    },
+    {
+      "t": 312.124,
+      "tag": "mark_ho Mảnh Sành B"
+    },
+    {
+      "t": 316.6,
+      "tag": "impact_perfect_manh_dist_0.50"
+    },
+    {
+      "t": 316.615,
+      "tag": "mark_ho Mảnh Sành B"
+    },
+    {
+      "t": 318.717,
+      "tag": "the_bo_into_ho"
+    },
+    {
+      "t": 321.171,
+      "tag": "city_d1_Tối_cuacong"
+    },
+    {
+      "t": 325.052,
+      "tag": "nhan_ra_tung_chua"
+    },
+    {
+      "t": 325.211,
+      "tag": "city_d2_Sáng_nharua"
+    },
+    {
+      "t": 329.56,
+      "tag": "nhan_ra_tho_no"
+    },
+    {
+      "t": 329.727,
+      "tag": "city_d2_Chiều_den"
+    },
+    {
+      "t": 329.729,
+      "tag": "beat_bs_palace"
+    },
+    {
+      "t": 347.811,
+      "tag": "deal_refuse"
+    },
+    {
+      "t": 354.494,
+      "tag": "story_done"
+    }
+  ],
+  "fps": [
+    1.0,
+    1.0,
+    29.0,
+    28.0,
+    18.0,
+    15.0,
+    15.0,
+    1.0,
+    1.0,
+    40.0,
+    40.0,
+    21.0,
+    20.0,
+    20.0,
+    15.0,
+    17.0,
+    17.0,
+    29.0,
+    29.0,
+    25.0,
+    25.0,
+    30.0,
+    20.0,
+    20.0,
+    24.0,
+    3.0,
+    43.0,
+    4.0,
+    4.0,
+    40.0,
+    1.0,
+    5.0,
+    5.0,
+    9.0,
+    9.0,
+    4.0,
+    4.0,
+    28.0,
+    5.0,
+    8.0,
+    8.0,
+    34.0,
+    4.0,
+    9.0,
+    9.0,
+    34.0,
+    16.0,
+    16.0,
+    49.0,
+    7.0,
+    4.0,
+    4.0,
+    39.0,
+    39.0,
+    42.0,
+    24.0,
+    4.0,
+    4.0,
+    3.0,
+    15.0,
+    15.0,
+    17.0,
+    5.0,
+    5.0,
+    5.0,
+    41.0,
+    32.0,
+    32.0,
+    32.0,
+    17.0,
+    4.0,
+    4.0,
+    9.0,
+    9.0,
+    9.0,
+    9.0,
+    33.0,
+    33.0,
+    21.0,
+    21.0,
+    5.0,
+    5.0,
+    31.0,
+    31.0,
+    10.0,
+    4.0,
+    4.0,
+    8.0,
+    8.0,
+    23.0,
+    36.0,
+    9.0,
+    9.0,
+    33.0,
+    6.0,
+    4.0,
+    4.0,
+    35.0,
+    25.0,
+    25.0,
+    41.0,
+    7.0,
+    7.0,
+    5.0,
+    50.0,
+    50.0,
+    11.0,
+    11.0,
+    28.0,
+    7.0,
+    7.0,
+    7.0,
+    13.0,
+    8.0,
+    8.0,
+    9.0,
+    15.0,
+    15.0,
+    30.0,
+    6.0,
+    3.0,
+    3.0,
+    8.0,
+    8.0,
+    4.0,
+    4.0,
+    4.0,
+    3.0,
+    32.0,
+    2.0,
+    15.0,
+    17.0,
+    17.0,
+    3.0,
+    15.0,
+    15.0,
+    5.0,
+    16.0,
+    13.0,
+    5.0,
+    4.0,
+    50.0,
+    50.0,
+    40.0,
+    40.0,
+    46.0,
+    2.0,
+    2.0,
+    42.0,
+    5.0,
+    33.0,
+    1.0,
+    15.0,
+    15.0,
+    29.0,
+    5.0,
+    6.0,
+    6.0,
+    35.0,
+    35.0,
+    33.0,
+    4.0,
+    4.0,
+    1.0,
+    27.0,
+    4.0,
+    4.0,
+    2.0,
+    4.0,
+    6.0,
+    6.0,
+    14.0,
+    4.0,
+    2.0,
+    8.0,
+    8.0,
+    3.0,
+    4.0,
+    4.0,
+    5.0,
+    5.0,
+    48.0,
+    48.0,
+    61.0,
+    61.0,
+    55.0,
+    31.0,
+    31.0,
+    31.0,
+    60.0,
+    60.0,
+    60.0,
+    60.0,
+    37.0,
+    38.0,
+    38.0,
+    60.0,
+    60.0,
+    60.0,
+    60.0,
+    60.0,
+    60.0,
+    60.0,
+    60.0,
+    60.0,
+    60.0,
+    60.0,
+    40.0,
+    40.0,
+    39.0,
+    41.0,
+    41.0,
+    56.0,
+    10.0,
+    40.0,
+    41.0,
+    41.0,
+    41.0,
+    41.0,
+    60.0,
+    40.0,
+    32.0,
+    32.0,
+    48.0,
+    48.0,
+    60.0,
+    60.0,
+    60.0,
+    60.0,
+    60.0,
+    60.0,
+    60.0,
+    60.0,
+    60.0,
+    60.0,
+    60.0,
+    57.0,
+    42.0,
+    31.0,
+    31.0,
+    60.0,
+    60.0,
+    38.0,
+    38.0,
+    59.0,
+    59.0,
+    60.0,
+    60.0,
+    59.0,
+    59.0,
+    49.0,
+    56.0,
+    56.0,
+    53.0,
+    53.0,
+    24.0,
+    24.0,
+    52.0,
+    52.0,
+    56.0,
+    28.0,
+    28.0,
+    56.0,
+    56.0,
+    56.0,
+    56.0,
+    54.0,
+    54.0,
+    13.0,
+    13.0,
+    61.0,
+    61.0,
+    39.0,
+    39.0,
+    60.0,
+    36.0,
+    36.0,
+    60.0,
+    35.0,
+    35.0,
+    44.0,
+    44.0,
+    60.0,
+    60.0,
+    53.0,
+    53.0,
+    49.0,
+    41.0,
+    18.0,
+    18.0,
+    58.0,
+    58.0,
+    52.0,
+    52.0,
+    52.0,
+    52.0,
+    47.0,
+    47.0,
+    38.0,
+    23.0,
+    23.0,
+    56.0,
+    22.0,
+    22.0,
+    57.0,
+    57.0,
+    52.0,
+    49.0,
+    49.0,
+    46.0,
+    46.0,
+    49.0,
+    18.0,
+    18.0,
+    53.0,
+    53.0,
+    35.0,
+    35.0,
+    29.0,
+    47.0,
+    47.0,
+    45.0,
+    45.0,
+    42.0,
+    21.0,
+    32.0,
+    24.0,
+    24.0,
+    45.0,
+    45.0,
+    24.0,
+    24.0,
+    4.0,
+    24.0,
+    30.0,
+    30.0,
+    49.0,
+    49.0,
+    35.0,
+    35.0,
+    28.0,
+    24.0,
+    26.0,
+    26.0,
+    31.0,
+    31.0,
+    40.0,
+    27.0,
+    15.0,
+    41.0,
+    41.0,
+    34.0,
+    48.0,
+    48.0,
+    49.0,
+    49.0,
+    40.0,
+    40.0,
+    40.0,
+    15.0,
+    15.0,
+    52.0,
+    20.0,
+    20.0,
+    52.0,
+    34.0,
+    35.0,
+    35.0,
+    45.0,
+    45.0,
+    41.0,
+    41.0,
+    39.0,
+    39.0,
+    41.0,
+    13.0,
+    27.0,
+    27.0,
+    48.0,
+    12.0,
+    12.0,
+    52.0,
+    52.0,
+    32.0,
+    19.0,
+    16.0,
+    29.0,
+    13.0,
+    13.0,
+    51.0,
+    51.0,
+    9.0,
+    9.0,
+    53.0,
+    20.0,
+    20.0,
+    46.0,
+    13.0,
+    13.0,
+    46.0,
+    46.0,
+    35.0,
+    35.0,
+    35.0,
+    24.0,
+    31.0,
+    23.0,
+    23.0,
+    46.0,
+    46.0,
+    32.0,
+    32.0,
+    34.0,
+    34.0,
+    31.0,
+    16.0,
+    22.0,
+    22.0,
+    44.0,
+    44.0,
+    23.0,
+    14.0,
+    35.0,
+    35.0,
+    27.0,
+    27.0,
+    23.0,
+    23.0,
+    23.0,
+    21.0,
+    13.0,
+    13.0,
+    22.0,
+    21.0,
+    21.0,
+    29.0,
+    29.0,
+    10.0,
+    10.0,
+    46.0,
+    46.0,
+    32.0,
+    23.0,
+    9.0,
+    9.0,
+    46.0,
+    30.0,
+    10.0,
+    10.0,
+    40.0,
+    19.0,
+    33.0,
+    33.0,
+    35.0,
+    35.0,
+    32.0,
+    10.0,
+    10.0,
+    46.0,
+    46.0,
+    25.0,
+    25.0,
+    7.0,
+    7.0,
+    27.0,
+    27.0,
+    40.0,
+    40.0,
+    31.0,
+    25.0,
+    25.0,
+    33.0,
+    8.0,
+    8.0,
+    33.0,
+    33.0,
+    31.0,
+    31.0,
+    10.0,
+    10.0,
+    42.0,
+    17.0,
+    35.0,
+    15.0,
+    15.0,
+    40.0,
+    14.0,
+    39.0,
+    39.0,
+    32.0,
+    32.0,
+    19.0,
+    29.0,
+    29.0,
+    33.0,
+    33.0,
+    28.0,
+    28.0,
+    29.0,
+    29.0,
+    30.0,
+    30.0,
+    33.0,
+    33.0
+  ],
+  "fps_avg": 29.531746031746,
+  "fps_min": 1.0,
+  "notes": [],
+  "seconds": 354.5,
+  "shots": [
+    "t01_title",
+    "t02_raise",
+    "t03a_line",
+    "t03_cut",
+    "t03b_parted",
+    "t04_dark",
+    "m01_valley",
+    "m02_house",
+    "go_chop",
+    "guide_645",
+    "demo_stroke",
+    "m03_chop",
+    "go_broom",
+    "guide_309",
+    "m05_sweep",
+    "go_well",
+    "guide_191",
+    "demo_pendulum",
+    "m06_carry",
+    "choice",
+    "m07_peddler",
+    "m07_freeroam",
+    "m08_baca",
+    "m09_stele",
+    "go_pass",
+    "i01_refugees",
+    "b_manh_tinh_r1",
+    "b_lesson_chao",
+    "v_stage_1",
+    "v_stage_2",
+    "v_stage_3",
+    "b_attack_manh_tinh",
+    "b_impact_manh_tinh",
+    "b_manh_tinh_r2",
+    "b_stroke_manh_tinh",
+    "b_summary_manh_tinh",
+    "i02a_shards",
+    "i02b_hands",
+    "i02_big",
+    "name_card",
+    "b_nghiet_tinh_r1",
+    "b_attack_nghiet_tinh",
+    "b_impact_nghiet_tinh",
+    "b_nghiet_tinh_r2",
+    "b_windup",
+    "b_attack_nghiet_tinh_flurry",
+    "b_impact_nghiet_tinh_flurry",
+    "b_attack_nghiet_tinh_special",
+    "b_impact_nghiet_tinh_special",
+    "b_nghiet_tinh_r1",
+    "b_attack_nghiet_tinh",
+    "b_impact_nghiet_tinh",
+    "b_lesson_ho",
+    "b_nghiet_tinh_r2",
+    "b_menu_lead",
+    "b_stroke_nghiet_tinh",
+    "b_offer",
+    "b_chain",
+    "b_lesson_ran",
+    "b_nhatnet_hit",
+    "b_nhatnet_wind",
+    "b_nhatnet_hit",
+    "b_nhatnet_wind",
+    "i03_wall",
+    "n01_porch",
+    "n02_beam",
+    "d00_sword",
+    "d01_give",
+    "d02_marker",
+    "d03_walkaway",
+    "bs01_road",
+    "bs02_city",
+    "bs03_lanh",
+    "bs04_camp",
+    "bs05_fire",
+    "b_manh_tinh_r1",
+    "b_attack_manh_tinh",
+    "b_impact_manh_tinh",
+    "b_manh_tinh_r2",
+    "b_menu_lead",
+    "b_nhatnet_hit",
+    "b_nhatnet_wind",
+    "b_stroke_manh_tinh",
+    "b_nhatnet_hit",
+    "b_nhatnet_wind",
+    "b_summary_manh_tinh",
+    "bs06_caravan",
+    "go_yard_entry",
+    "bs07_yard",
+    "bs08_ash",
+    "choice",
+    "bs09_white",
+    "bs10_tiers",
+    "go_basin",
+    "bs11_basin",
+    "c_d1_0",
+    "bs12_sotro",
+    "bs12b_pk395",
+    "c_d1_1",
+    "bs13_chen",
+    "c_d1_2",
+    "bs16_nong",
+    "b_manh_tinh_r1",
+    "v_stage_1",
+    "v_stage_2",
+    "v_stage_3",
+    "b_attack_manh_tinh",
+    "b_impact_manh_tinh",
+    "b_manh_tinh_r2",
+    "b_menu_lead",
+    "b_nhatnet_hit",
+    "b_nhatnet_wind",
+    "b_stroke_manh_tinh",
+    "b_summary_manh_tinh",
+    "c_d2_0",
+    "c_d2_1",
+    "bs14_tranh",
+    "bs20_arrest",
+    "bs21_dien",
+    "bs22_hall",
+    "name_card",
+    "bs23_tay",
+    "bs24_offer"
+  ]
+}

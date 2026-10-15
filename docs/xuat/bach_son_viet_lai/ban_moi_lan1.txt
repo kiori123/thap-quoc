@@ -1,0 +1,104 @@
+BX-001	Bạch Sơn
+BS-01	Ba ngày sau khi rời Vô Danh Cốc
+BS-02	Qua bãi này là tới trại.
+BS-03	Đừng nhìn mấy pho tượng lâu quá.
+BS-04	Họ là ai?
+BS-05	Người bị đuổi ra đấy. Trắng Tay chạm vào đầu thì thành thế.
+BS-06	Xem
+BS-07	Theo Mạnh lên Trại Ngoài Cổng
+BS-08	Đấy. Bạch Sơn.
+BS-09	Trắng thật.
+BS-10	Ở dưới này, ngày nào cũng phải ngước lên nhìn nó.
+BS-11	Một pho người bằng sứ, quay mặt về phía cổng. Dải men lam bịt ngang mắt.
+BS-12	Cái nong đựng những mảnh sứ bằng ngón tay. Mảnh nào cũng khắc một năm. Bà Lành bảo mỗi mảnh là một người.
+BS-13	Mấy khối đá xám nằm dưới lớp vôi bong. Trên một phiến đá có khắc chữ "Khê" và ba vạch.
+BS-14	Giếng do người trong trại tự đào. Nước lợ, có vị vôi.
+BS-15	Vệt đất trắng bóng như men, chạy từ chân núi về phía trại. Giẫm lên nghe giòn như vỏ trứng.
+BS-16	Nước đục chảy từ cống dưới chân tường thành xuống. Người trong trại vẫn múc để giặt.
+BS-17	Trên bậc cổng có cái chậu trắng to lắm. Người trong ấy rửa tay ở đấy.
+BS-18	Em chưa rửa ở đấy bao giờ. Bà Lành bảo người dưới này không được lại gần.
+BS-19	Đứng xích ra, chắn hết ánh sáng rồi. Tôi đang giã thuốc.
+BS-20	Ông lính trên tường ấy à? Tối nào ông ấy cũng đứng đó. Kệ ông ấy.
+BS-21	Cảm ơn cháu đã đưa nó về.
+BS-22	Nhà bác bị đuổi theo sắc mới. Chú nó bị đuổi mấy năm trước rồi, giờ đến lượt hai mẹ con bác.
+BS-23	Thằng Mạnh! Mày còn sống à?
+BS-24	Con đưa Lúa tới Vô Danh Cốc rồi, bà ạ.
+BS-25	Mẹ mày ngồi ngoài bếp chờ mày từ hôm đi đến giờ đấy. Ra đi.
+BS-26	Còn đây là ai? Mặt mũi sạch sẽ thế kia, đâu phải người ở trại.
+BS-27	Cháu ở Vô Danh Cốc. Cháu với Mạnh đưa Lúa về đấy.
+BS-28	Con bé học thuốc ấy à? Nó còn sống thật à?
+BS-29	Còn ạ. Chỗ trắng trên chân thôi lan rồi.
+BS-30	...Thế thì tốt. Ở đây, bà chưa thấy ai thôi lan bao giờ.
+BS-31	Lên đây làm gì?
+BS-32	Cháu muốn gặp người dựng cái cổng kia.
+BS-33	Lên đấy thì phải thử tro. Thử xong mà bị đuổi thì xuống đây ở với bà.
+BS-34	Mà cháu lên đúng lúc xui rồi. Trên ấy vừa ra sắc mới, nhà nào có người bị đuổi thì họ hàng cũng phải ra nốt.
+BS-35	Năm ngày nữa là Lễ Quét Vôi. Đợt người tiếp theo bị đuổi đúng hôm ấy.
+BS-250	Nói chuyện
+BS-37	Ngồi xuống bếp
+BS-38	Đi quanh trại. Xong rồi thì ra bếp ngồi với bà Lành.
+BS-39	Ăn đi. Mắm cá suối đấy.
+BS-40	...Ngon ạ.
+BS-41	Trên kia cái gì lên men cũng bị chê là thối. Thối mà ngon thế này thì bà cứ ăn.
+BS-42	Ăn xong thì vào lều ngủ. Đêm đừng có ra ngoài.
+BS-43	Bà ơi!
+BS-44	Mảnh Sành bò ra từ Rãnh Sứ, đang bò về phía lều của Cỏ!
+BS-45	Ngã xuống rồi. Đứng dậy lần nữa?
+BS-46	Thử lại
+BS-47	Đêm nào cũng thế. Có đêm nó chỉ cào cửa lều thôi.
+BS-48	Có đêm thì nó không chỉ cào cửa.
+BS-49	Mai lên cổng à? Rửa tay ở cái chậu ấy rồi về kể em nghe nhé.
+BS-50	Ai biết gánh thì lại đây. Người của tôi bỏ về giữa đường rồi.
+BS-51	Cháu gánh được.
+BS-52	Đưa tay đây xem.
+BS-53	Tay chai thế này thì gánh được. Lên cổng cứ đứng sau tôi, đừng nói gì.
+BS-54	Bà Sương năm nào cũng lên một lần. Lúc đi xe rỗng, lúc về xe đầy.
+BS-55	Đầy gì ạ?
+BS-56	Người chứ gì. Nghe bảo ai lên xe thì được đưa đi chữa bệnh.
+BS-57	Gánh hòm thuốc, theo bà Sương lên Sân Tro
+BS-58	Người tiếp theo. Đưa tay đây.
+BS-59	Trắng.
+BS-60	Bà Sương. Năm nay cũng lên à?
+BS-61	Năm nào tôi chẳng lên.
+BS-63	Đưa tay đây. Ngửa bàn tay ra.
+BS-64	Giữ yên.
+BS-80	Space khi tay lắc ra mép
+BS-264	Tay yên
+BS-65	XÁM
+BS-66	...Xám.
+BS-67	Người gánh hòm thuốc cho tôi đấy. Gánh nặng thì tay nứt thôi.
+BS-68	Sổ ghi xám thì phải giữ lại.
+BS-82	(Im lặng)
+BS-83	Cháu bị Nghiệt chạm ở cửa đèo.
+BS-84	Cháu đỡ hòm từ tay anh ấy suốt đường.
+BS-69	Tro ướt.
+BS-70	Dạ?
+BS-71	Tay đổ mồ hôi thì tro không ăn. Thử lại đi.
+BS-72	TRẮNG
+BS-73	...Trắng.
+BS-74	Đi đi.
+BX-002	Cháu bị Nghiệt chạm ở cửa đèo.
+BS-86	Tôi thuê người ở trại hôm qua. Chuyện của người ấy, tôi không biết.
+BS-87	Giữ lại.
+BS-88	Đêm ở Sân Tro
+BS-89	Dưới chân dốc có tiếng gõ trên sứ, lúc thưa lúc dày. Cổng sau lưng vẫn đóng chặt.
+BS-90	Thưa Chánh Ty.
+BS-91	Khai thật với khám sư à?
+BS-92	Ba trăm năm nay, chưa ai đứng ở cổng này tự nhận mình bị Nghiệt chạm.
+BS-93	Cho vào. Sáng nào cũng lên Dinh Ty cho tôi xem tay.
+BX-003	Cháu đỡ hòm từ tay anh ấy suốt đường.
+BS-95	Anh kia. Đưa tay đây.
+BS-96	Tay tôi... Gánh hòm thì tay nứt chứ.
+BS-97	Tay anh Vững
+BS-98	Xám. Giữ lại.
+BS-99	Tay người này dính lây từ tay anh ta. Rửa lại.
+BS-101	Bà Sương, tôi gánh hòm cho bà sáu năm rồi.
+BS-102	Đi thôi.
+BS-85	Lão gác ấy làm thế nhiều lần rồi. Sớm muộn gì cũng có ngày bị bắt.
+BS-94	Từ giờ đứng cách tôi ra một quãng.
+BS-103	Bà Sương, anh Vững nhà em đâu rồi?
+BS-104	Bị giữ lại ở cổng.
+BS-75	Rửa tay đi. Ở đây không rửa là người ta nhìn đấy.
+BS-76b	Rửa tay
+BS-76	Rửa tay ở chậu nước trước cửa nhà
+BS-77	Nước lạnh. Chảy từ tầng trên xuống.

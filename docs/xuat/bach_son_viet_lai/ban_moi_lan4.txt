@@ -1,0 +1,96 @@
+BS-284	Thưa Chánh Ty, người này.
+BS-285	Người gánh hòm của bà Sương.
+BX-031	%s đêm chui qua Cửa Cống xuống trại. Có người thấy.
+BS-287	Tự khai bị Nghiệt chạm. Thử lại vẫn xám.
+BS-288	Lật Sổ Tro ở Dinh Ty lúc thư lại đi vắng.
+BS-289	Theo luật, hôm nay người này phải ra cổng.
+BS-290	Nhưng Bà muốn gặp người từ Vô Danh Cốc.
+BS-291	Đi sau tôi ba bước. Đừng để chạm vào ai.
+BS-292	Lên mỗi tầng, người đi đường dạt sang hai bên. Không ai nhìn người đi sau Chánh Ty.
+BS-293	Một bà già áo trắng đặt bát cơm lên bậc cửa rồi lùi vào trong. Bát cơm hôm qua vẫn còn nguyên.
+BS-294	Thưa Bà. Người từ Vô Danh Cốc.
+BS-295	Cho vào.
+BS-296	Ngọc Khiết, ở ngoài.
+BS-297	Thưa Bà, người này đã...
+BS-298	Ở ngoài.
+BS-299	Gian điện rộng, trống và lạnh. Tường trắng, chân tường ốp sứ. Một người đứng quay lưng bên chậu nước, đang rửa tay.
+BX-032	BĂNG TÂM
+BS-300	Vị Tự của Bạch Sơn
+BS-301	Đứng đấy.
+BS-302	Giữa hai người là một sải tay. Bà không bước lại gần.
+BS-303	Cho ta xem tay.
+BS-304	Lòng bàn tay, chìa ra
+BS-305	Bà nhìn rất lâu. Không cầm tay, cũng không nói gì về điều mình thấy.
+BS-306	Ngọc Khiết bảo con chui qua Cửa Cống.
+BS-307	Ngọc Khiết bảo con tự khai bị Nghiệt chạm.
+BS-308	Ngọc Khiết bảo con lật Sổ Tro.
+BS-309	Con lên Bạch Sơn làm gì?
+BS-310	Đoàn của Lúa bị đuổi khỏi đây. Cái thứ ngoài cổng đuổi theo họ tới tận cửa đèo Vô Danh Cốc.
+BS-311	Tới cột mốc thì nó dừng.
+BS-312	...Vâng.
+BS-313	Bà im lặng một lúc.
+BS-314	Con thấy gì ở thành ta?
+BS-315	Sắc nào cũng do Chánh Ty soạn. Bà đóng ấn.
+BS-316	Ta đọc. Tuần nào cũng đọc.
+BS-317	Bà đọc báo cáo. Còn Sổ Tro thì Bà không đọc. Cột đen ba trăm năm không có lấy một nét.
+BS-318	Bà không đáp.
+BS-319	Tro không nhận ra Nghiệt. Nó chỉ chui vào kẽ. Tay nứt vì vôi hay nước thuốc cũng ra xám.
+BS-320	Tro không biết nói dối.
+BS-321	Bà khép hai tay vào trong tay áo.
+BS-322	Người bị đuổi bị bán. Người của Ty đưa họ lên xe trắng, đếm đủ số rồi chở sang Vạn Thư.
+BS-323	Xe nào?
+BS-324	Xe của bà Sương. Năm nào bà ấy cũng lên.
+BS-325	Bà im rất lâu.
+BS-326	Người đã nhiễm thì đằng nào cũng hóa sứ.
+BS-327	Hồi trước, người ra xám được giữ lại chờ Bà rửa men. Ông Sẹo ở Nhà Rửa vẫn còn sẹo.
+BS-328	Ông ta còn sống à?
+BS-329	...Ông ấy bị đuổi rồi. Hôm kia.
+BS-330	Bà không hỏi ai đã báo tin.
+BS-331	Cổ tay trái. Hình cánh mai.
+BS-332	Cái ngoài cổng không phải Sứ Giả. Nó là Nghiệt, sinh ra từ chính những ô cửa trong thành này.
+BS-333	Ra quảng trường nói câu ấy, người ta sẽ không để con nói hết đâu.
+BS-334	Người ta bị đuổi chỉ vì tay nứt.
+BS-336	Con muốn gì?
+BS-337	Bỏ các sắc. Mở cổng cho người ta về.
+BS-338	Mở cổng thì thứ ngoài kia cũng vào theo.
+BS-339	Ta đã thấy một lần.
+BS-340	Kể về phiến đá ở nền cổng cũ.
+BS-341	Không kể.
+BS-342	Dưới lớp vôi ở nền cổng cũ có một phiến đá. Trên đó khắc một chữ Khê.
+BS-343	Mấy vạch?
+BX-033	Ba.
+BS-345	Bà không hỏi thêm.
+BS-346	Ta sẽ làm thế này.
+BS-347	Từ mai, tro chỉ giữ người thật sự bị chạm. Ai mới bị đuổi theo sắc họ hàng thì cho về dần. Không đọc sắc, không dán thông báo. Không ai cần biết.
+BS-348	Ty vẫn là Ty. Ngọc Khiết vẫn là Chánh Ty.
+BS-349	Đổi lại, con không nói với ai.
+BS-350	Báo cáo tuần này có tên con.
+BS-351	Ở cổng, con đỡ hòm từ tay một người khiêng. Người ấy ra cổng, con vào.
+BS-352	Con chỉ cho người áo lam một người ở Nhà Rửa.
+BS-353	Con cũng đã đẩy người khác ra ngoài cổng.
+BS-354	Không. Mai ở Lễ Quét Vôi, cháu sẽ nói hết trước mọi người.
+BS-355	...Cháu sẽ không nói.
+BS-356	Con tin chỉ cần nói ra là đủ sao?
+BS-357	Bà quay lại chậu nước.
+BS-358	Ngọc Khiết. Để người này đi. Hôm nay không ai ra cổng.
+BS-359	...Thưa Bà.
+BS-360	Mai ở quảng trường, đứng gần người này.
+BS-361	Dạ.
+BS-362	Ừ.
+BS-363	Ngọc Khiết. Để người này đi. Từ mai làm như ta dặn.
+BS-364	Thưa Bà.
+BS-365	Lễ Quét Vôi
+BS-366	Năm ấy, Lễ Quét Vôi không đọc sắc nào. Người ta quét vôi lại bể rửa rồi về nhà.
+BS-367	Chiều tối, cổng hé ra một khe. Mấy người trong trại đi vào, cúi đầu, không ai nói gì. Ông Sẹo đi sau cùng.
+BS-368	Chiều tối, cổng hé ra một khe. Mấy người trong trại đi vào, cúi đầu, không ai nói gì.
+BS-369	Đêm ấy, dưới trại vẫn có tiếng gõ trên sứ. Tiếng gõ chẳng thưa đi.
+BS-370	Tờ giấy gấp đôi
+BS-371	Bà hầu câm đưa tờ giấy rồi quay lên. Bà Tâm không xuống.
+BS-239	Sổ ghi
+BS-243	Tab: đóng
+BS-240	Nhận ra
+BS-242	(chưa có)
+BS-241	Điều thấy
+BS-64b	Lòng bàn tay, cổ tay
+BS-237	Nghi
+BS-238	Tab: Sổ ghi

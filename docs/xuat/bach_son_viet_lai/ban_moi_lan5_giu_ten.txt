@@ -1,0 +1,12 @@
+BS-372	Sáng hôm sau
+BS-267	Sáng hôm sau, người của Ty gõ cửa nhà kho. Chánh Ty mời lên Điện Tịnh.
+BS-266	ĐIỆN TỊNH
+BX-004	LỄ QUÉT VÔI
+BS-373	Sáng mai, cả thành sẽ ra Quảng Trường Rửa.
+BS-374	Hết bản thử Bạch Sơn (tới hết phần D). Phần còn lại ở docs/N_bach_son.md.
+BS-375	Biến thể (b): không có bạo loạn, không ai chết trong chương. Ty vẫn nguyên vẹn. Bà Tâm không rời Điện Tịnh. Cái ngoài cổng không yếu đi.
+BS-376	Hết bản thử Bạch Sơn (biến thể b). Phần còn lại ở docs/N_bach_son.md.
+BX-005	Hết bản thử Bạch Sơn (tới hết phần C). Đã nhận ra %d trong 5 điều. Phần còn lại ở docs/N_bach_son.md.
+BX-006	BẠCH SƠN
+BS-78	Bốn ngày nữa là tới Lễ Quét Vôi
+BS-79	Hết bản thử Bạch Sơn. Phần còn lại của chương ở docs/N_bach_son.md.

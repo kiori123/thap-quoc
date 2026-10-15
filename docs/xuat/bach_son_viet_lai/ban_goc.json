@@ -1,0 +1,4771 @@
+[
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 286,
+  "func": "_arrive",
+  "scene": "",
+  "speaker": "",
+  "kind": "thẻ chương / thời gian",
+  "text": "Bạch Sơn",
+  "code": "BX-001",
+  "where": [
+   "scripts/story/bach_son_story.gd:286"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 286,
+  "func": "_arrive",
+  "scene": "",
+  "speaker": "",
+  "kind": "thẻ chương / thời gian",
+  "text": "Ba ngày sau khi rời Vô Danh Cốc",
+  "code": "BS-01",
+  "where": [
+   "scripts/story/bach_son_story.gd:286"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 295,
+  "func": "_arrive",
+  "scene": "",
+  "speaker": "Mạnh",
+  "kind": "thoại",
+  "text": "Qua bãi này là tới trại.",
+  "code": "BS-02",
+  "where": [
+   "scripts/story/bach_son_story.gd:295"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 296,
+  "func": "_arrive",
+  "scene": "",
+  "speaker": "Mạnh",
+  "kind": "thoại",
+  "text": "Đừng nhìn mấy pho tượng lâu quá.",
+  "code": "BS-03",
+  "where": [
+   "scripts/story/bach_son_story.gd:296"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 297,
+  "func": "_arrive",
+  "scene": "",
+  "speaker": "[Tên]",
+  "kind": "thoại",
+  "text": "Họ là ai?",
+  "code": "BS-04",
+  "where": [
+   "scripts/story/bach_son_story.gd:297"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 298,
+  "func": "_arrive",
+  "scene": "",
+  "speaker": "Mạnh",
+  "kind": "thoại",
+  "text": "Người bị đuổi ra đấy. Trắng Tay chạm vào đầu thì thành thế.",
+  "code": "BS-05",
+  "where": [
+   "scripts/story/bach_son_story.gd:298"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 304,
+  "func": "_arrive",
+  "scene": "",
+  "speaker": "",
+  "kind": "nút tương tác",
+  "text": "Xem",
+  "code": "BS-06",
+  "where": [
+   "scripts/story/bach_son_story.gd:304",
+   "scripts/story/bach_son_story.gd:441"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 308,
+  "func": "_arrive",
+  "scene": "",
+  "speaker": "",
+  "kind": "việc cần làm",
+  "text": "Theo Mạnh lên Trại Ngoài Cổng",
+  "code": "BS-07",
+  "where": [
+   "scripts/story/bach_son_story.gd:308"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 338,
+  "func": "_arrive",
+  "scene": "",
+  "speaker": "Mạnh",
+  "kind": "thoại",
+  "text": "Đấy. Bạch Sơn.",
+  "code": "BS-08",
+  "where": [
+   "scripts/story/bach_son_story.gd:338"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 339,
+  "func": "_arrive",
+  "scene": "",
+  "speaker": "[Tên]",
+  "kind": "thoại",
+  "text": "Trắng thật.",
+  "code": "BS-09",
+  "where": [
+   "scripts/story/bach_son_story.gd:339"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 340,
+  "func": "_arrive",
+  "scene": "",
+  "speaker": "Mạnh",
+  "kind": "thoại",
+  "text": "Ở dưới này, ngày nào cũng phải ngước lên nhìn nó.",
+  "code": "BS-10",
+  "where": [
+   "scripts/story/bach_son_story.gd:340"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 362,
+  "func": "_either",
+  "scene": "The next interact or trigger, whichever comes first.",
+  "speaker": "",
+  "kind": "xem đồ vật",
+  "text": "Một pho người bằng sứ, quay mặt về phía cổng. Dải men lam bịt ngang mắt.",
+  "code": "BS-11",
+  "where": [
+   "scripts/story/bach_son_story.gd:362"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 363,
+  "func": "_either",
+  "scene": "The next interact or trigger, whichever comes first.",
+  "speaker": "",
+  "kind": "xem đồ vật",
+  "text": "Cái nong đựng những mảnh sứ bằng ngón tay. Mảnh nào cũng khắc một năm. Bà Lành bảo mỗi mảnh là một người.",
+  "code": "BS-12",
+  "where": [
+   "scripts/story/bach_son_story.gd:363"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 364,
+  "func": "_either",
+  "scene": "The next interact or trigger, whichever comes first.",
+  "speaker": "",
+  "kind": "xem đồ vật",
+  "text": "Mấy khối đá xám nằm dưới lớp vôi bong. Trên một phiến đá có khắc chữ \\\"Khê\\\" và ba vạch.",
+  "code": "BS-13",
+  "where": [
+   "scripts/story/bach_son_story.gd:364"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 365,
+  "func": "_either",
+  "scene": "The next interact or trigger, whichever comes first.",
+  "speaker": "",
+  "kind": "xem đồ vật",
+  "text": "Giếng do người trong trại tự đào. Nước lợ, có vị vôi.",
+  "code": "BS-14",
+  "where": [
+   "scripts/story/bach_son_story.gd:365"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 366,
+  "func": "_either",
+  "scene": "The next interact or trigger, whichever comes first.",
+  "speaker": "",
+  "kind": "xem đồ vật",
+  "text": "Vệt đất trắng bóng như men, chạy từ chân núi về phía trại. Giẫm lên nghe giòn như vỏ trứng.",
+  "code": "BS-15",
+  "where": [
+   "scripts/story/bach_son_story.gd:366"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 367,
+  "func": "_either",
+  "scene": "The next interact or trigger, whichever comes first.",
+  "speaker": "",
+  "kind": "xem đồ vật",
+  "text": "Nước đục chảy từ cống dưới chân tường thành xuống. Người trong trại vẫn múc để giặt.",
+  "code": "BS-16",
+  "where": [
+   "scripts/story/bach_son_story.gd:367"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 384,
+  "func": "_look",
+  "scene": "",
+  "speaker": "Cỏ",
+  "kind": "thoại",
+  "text": "Trên bậc cổng có cái chậu trắng to lắm. Người trong ấy rửa tay ở đấy.",
+  "code": "BS-17",
+  "where": [
+   "scripts/story/bach_son_story.gd:384"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 385,
+  "func": "_look",
+  "scene": "",
+  "speaker": "Cỏ",
+  "kind": "thoại",
+  "text": "Em chưa rửa ở đấy bao giờ. Bà Lành bảo người dưới này không được lại gần.",
+  "code": "BS-18",
+  "where": [
+   "scripts/story/bach_son_story.gd:385"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 386,
+  "func": "_look",
+  "scene": "",
+  "speaker": "Diệu",
+  "kind": "thoại",
+  "text": "Đứng xích ra, chắn hết ánh sáng rồi. Tôi đang giã thuốc.",
+  "code": "BS-19",
+  "where": [
+   "scripts/story/bach_son_story.gd:386"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 387,
+  "func": "_look",
+  "scene": "",
+  "speaker": "Diệu",
+  "kind": "thoại",
+  "text": "Ông lính trên tường ấy à? Tối nào ông ấy cũng đứng đó. Kệ ông ấy.",
+  "code": "BS-20",
+  "where": [
+   "scripts/story/bach_son_story.gd:387"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 388,
+  "func": "_look",
+  "scene": "",
+  "speaker": "Mẹ Mạnh",
+  "kind": "thoại",
+  "text": "Cảm ơn cháu đã đưa nó về.",
+  "code": "BS-21",
+  "where": [
+   "scripts/story/bach_son_story.gd:388"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 389,
+  "func": "_look",
+  "scene": "",
+  "speaker": "Mẹ Mạnh",
+  "kind": "thoại",
+  "text": "Nhà bác bị đuổi theo sắc mới. Chú nó bị đuổi mấy năm trước rồi, giờ đến lượt hai mẹ con bác.",
+  "code": "BS-22",
+  "where": [
+   "scripts/story/bach_son_story.gd:389"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 404,
+  "func": "_camp",
+  "scene": "",
+  "speaker": "Bà Lành",
+  "kind": "thoại",
+  "text": "Thằng Mạnh! Mày còn sống à?",
+  "code": "BS-23",
+  "where": [
+   "scripts/story/bach_son_story.gd:404"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 405,
+  "func": "_camp",
+  "scene": "",
+  "speaker": "Mạnh",
+  "kind": "thoại",
+  "text": "Con đưa Lúa tới Vô Danh Cốc rồi, bà ạ.",
+  "code": "BS-24",
+  "where": [
+   "scripts/story/bach_son_story.gd:405"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 406,
+  "func": "_camp",
+  "scene": "",
+  "speaker": "Bà Lành",
+  "kind": "thoại",
+  "text": "Mẹ mày ngồi ngoài bếp chờ mày từ hôm đi đến giờ đấy. Ra đi.",
+  "code": "BS-25",
+  "where": [
+   "scripts/story/bach_son_story.gd:406"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 412,
+  "func": "_camp",
+  "scene": "",
+  "speaker": "Bà Lành",
+  "kind": "thoại",
+  "text": "Còn đây là ai? Mặt mũi sạch sẽ thế kia, đâu phải người ở trại.",
+  "code": "BS-26",
+  "where": [
+   "scripts/story/bach_son_story.gd:412"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 413,
+  "func": "_camp",
+  "scene": "",
+  "speaker": "[Tên]",
+  "kind": "thoại",
+  "text": "Cháu ở Vô Danh Cốc. Cháu với Mạnh đưa Lúa về đấy.",
+  "code": "BS-27",
+  "where": [
+   "scripts/story/bach_son_story.gd:413"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 414,
+  "func": "_camp",
+  "scene": "",
+  "speaker": "Bà Lành",
+  "kind": "thoại",
+  "text": "Con bé học thuốc ấy à? Nó còn sống thật à?",
+  "code": "BS-28",
+  "where": [
+   "scripts/story/bach_son_story.gd:414"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 415,
+  "func": "_camp",
+  "scene": "",
+  "speaker": "[Tên]",
+  "kind": "thoại",
+  "text": "Còn ạ. Chỗ trắng trên chân thôi lan rồi.",
+  "code": "BS-29",
+  "where": [
+   "scripts/story/bach_son_story.gd:415",
+   "scripts/story/bach_son_city.gd:501"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 416,
+  "func": "_camp",
+  "scene": "",
+  "speaker": "Bà Lành",
+  "kind": "thoại",
+  "text": "...Thế thì tốt. Ở đây, bà chưa thấy ai thôi lan bao giờ.",
+  "code": "BS-30",
+  "where": [
+   "scripts/story/bach_son_story.gd:416"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 417,
+  "func": "_camp",
+  "scene": "",
+  "speaker": "Bà Lành",
+  "kind": "thoại",
+  "text": "Lên đây làm gì?",
+  "code": "BS-31",
+  "where": [
+   "scripts/story/bach_son_story.gd:417"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 418,
+  "func": "_camp",
+  "scene": "",
+  "speaker": "[Tên]",
+  "kind": "thoại",
+  "text": "Cháu muốn gặp người dựng cái cổng kia.",
+  "code": "BS-32",
+  "where": [
+   "scripts/story/bach_son_story.gd:418"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 420,
+  "func": "_camp",
+  "scene": "",
+  "speaker": "Bà Lành",
+  "kind": "thoại",
+  "text": "Lên đấy thì phải thử tro. Thử xong mà bị đuổi thì xuống đây ở với bà.",
+  "code": "BS-33",
+  "where": [
+   "scripts/story/bach_son_story.gd:420"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 421,
+  "func": "_camp",
+  "scene": "",
+  "speaker": "Bà Lành",
+  "kind": "thoại",
+  "text": "Mà cháu lên đúng lúc xui rồi. Trên ấy vừa ra sắc mới, nhà nào có người bị đuổi thì họ hàng cũng phải ra nốt.",
+  "code": "BS-34",
+  "where": [
+   "scripts/story/bach_son_story.gd:421"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 422,
+  "func": "_camp",
+  "scene": "",
+  "speaker": "Bà Lành",
+  "kind": "thoại",
+  "text": "Năm ngày nữa là Lễ Quét Vôi. Đợt người tiếp theo bị đuổi đúng hôm ấy.",
+  "code": "BS-35",
+  "where": [
+   "scripts/story/bach_son_story.gd:422"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 441,
+  "func": "_free_roam",
+  "scene": "Walk round the camp; when ready, sit by the fire with bà Lành (evening).",
+  "speaker": "",
+  "kind": "nút tương tác",
+  "text": "Nói chuyện",
+  "code": "BS-250",
+  "where": [
+   "scripts/story/bach_son_story.gd:441",
+   "scripts/story/bach_son_city.gd:238"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 442,
+  "func": "_free_roam",
+  "scene": "Walk round the camp; when ready, sit by the fire with bà Lành (evening).",
+  "speaker": "",
+  "kind": "nút tương tác",
+  "text": "Ngồi xuống bếp",
+  "code": "BS-37",
+  "where": [
+   "scripts/story/bach_son_story.gd:442"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 444,
+  "func": "_free_roam",
+  "scene": "Walk round the camp; when ready, sit by the fire with bà Lành (evening).",
+  "speaker": "",
+  "kind": "việc cần làm",
+  "text": "Đi quanh trại. Xong rồi thì ra bếp ngồi với bà Lành.",
+  "code": "BS-38",
+  "where": [
+   "scripts/story/bach_son_story.gd:444"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 508,
+  "func": "_night",
+  "scene": "",
+  "speaker": "Bà Lành",
+  "kind": "thoại",
+  "text": "Ăn đi. Mắm cá suối đấy.",
+  "code": "BS-39",
+  "where": [
+   "scripts/story/bach_son_story.gd:508"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 509,
+  "func": "_night",
+  "scene": "",
+  "speaker": "[Tên]",
+  "kind": "thoại",
+  "text": "...Ngon ạ.",
+  "code": "BS-40",
+  "where": [
+   "scripts/story/bach_son_story.gd:509"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 510,
+  "func": "_night",
+  "scene": "",
+  "speaker": "Bà Lành",
+  "kind": "thoại",
+  "text": "Trên kia cái gì lên men cũng bị chê là thối. Thối mà ngon thế này thì bà cứ ăn.",
+  "code": "BS-41",
+  "where": [
+   "scripts/story/bach_son_story.gd:510"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 511,
+  "func": "_night",
+  "scene": "",
+  "speaker": "Bà Lành",
+  "kind": "thoại",
+  "text": "Ăn xong thì vào lều ngủ. Đêm đừng có ra ngoài.",
+  "code": "BS-42",
+  "where": [
+   "scripts/story/bach_son_story.gd:511"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 520,
+  "func": "_night",
+  "scene": "",
+  "speaker": "Cỏ",
+  "kind": "thoại",
+  "text": "Bà ơi!",
+  "code": "BS-43",
+  "where": [
+   "scripts/story/bach_son_story.gd:520"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 533,
+  "func": "_night",
+  "scene": "",
+  "speaker": "",
+  "kind": "dòng mở trận đánh",
+  "text": "Mảnh Sành bò ra từ Rãnh Sứ, đang bò về phía lều của Cỏ!",
+  "code": "BS-44",
+  "where": [
+   "scripts/story/bach_son_story.gd:533"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 542,
+  "func": "_night",
+  "scene": "",
+  "speaker": "(lời kể)",
+  "kind": "thoại",
+  "text": "Ngã xuống rồi. Đứng dậy lần nữa?",
+  "code": "BS-45",
+  "where": [
+   "scripts/story/bach_son_story.gd:542",
+   "scripts/story/bach_son_city.gd:718"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 543,
+  "func": "_night",
+  "scene": "",
+  "speaker": "",
+  "kind": "lựa chọn",
+  "text": "Thử lại",
+  "code": "BS-46",
+  "where": [
+   "scripts/story/bach_son_story.gd:543",
+   "scripts/story/bach_son_city.gd:719"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 556,
+  "func": "_night",
+  "scene": "",
+  "speaker": "Bà Lành",
+  "kind": "thoại",
+  "text": "Đêm nào cũng thế. Có đêm nó chỉ cào cửa lều thôi.",
+  "code": "BS-47",
+  "where": [
+   "scripts/story/bach_son_story.gd:556"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 557,
+  "func": "_night",
+  "scene": "",
+  "speaker": "Bà Lành",
+  "kind": "thoại",
+  "text": "Có đêm thì nó không chỉ cào cửa.",
+  "code": "BS-48",
+  "where": [
+   "scripts/story/bach_son_story.gd:557"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 560,
+  "func": "_night",
+  "scene": "",
+  "speaker": "Cỏ",
+  "kind": "thoại",
+  "text": "Mai lên cổng à? Rửa tay ở cái chậu ấy rồi về kể em nghe nhé.",
+  "code": "BS-49",
+  "where": [
+   "scripts/story/bach_son_story.gd:560"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 597,
+  "func": "_caravan",
+  "scene": "",
+  "speaker": "Bà Sương",
+  "kind": "thoại",
+  "text": "Ai biết gánh thì lại đây. Người của tôi bỏ về giữa đường rồi.",
+  "code": "BS-50",
+  "where": [
+   "scripts/story/bach_son_story.gd:597"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 598,
+  "func": "_caravan",
+  "scene": "",
+  "speaker": "[Tên]",
+  "kind": "thoại",
+  "text": "Cháu gánh được.",
+  "code": "BS-51",
+  "where": [
+   "scripts/story/bach_son_story.gd:598"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 599,
+  "func": "_caravan",
+  "scene": "",
+  "speaker": "Bà Sương",
+  "kind": "thoại",
+  "text": "Đưa tay đây xem.",
+  "code": "BS-52",
+  "where": [
+   "scripts/story/bach_son_story.gd:599"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 601,
+  "func": "_caravan",
+  "scene": "",
+  "speaker": "Bà Sương",
+  "kind": "thoại",
+  "text": "Tay chai thế này thì gánh được. Lên cổng cứ đứng sau tôi, đừng nói gì.",
+  "code": "BS-53",
+  "where": [
+   "scripts/story/bach_son_story.gd:601"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 604,
+  "func": "_caravan",
+  "scene": "",
+  "speaker": "Bà Lành",
+  "kind": "thoại",
+  "text": "Bà Sương năm nào cũng lên một lần. Lúc đi xe rỗng, lúc về xe đầy.",
+  "code": "BS-54",
+  "where": [
+   "scripts/story/bach_son_story.gd:604"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 605,
+  "func": "_caravan",
+  "scene": "",
+  "speaker": "[Tên]",
+  "kind": "thoại",
+  "text": "Đầy gì ạ?",
+  "code": "BS-55",
+  "where": [
+   "scripts/story/bach_son_story.gd:605"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 606,
+  "func": "_caravan",
+  "scene": "",
+  "speaker": "Bà Lành",
+  "kind": "thoại",
+  "text": "Người chứ gì. Nghe bảo ai lên xe thì được đưa đi chữa bệnh.",
+  "code": "BS-56",
+  "where": [
+   "scripts/story/bach_son_story.gd:606"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 614,
+  "func": "_caravan",
+  "scene": "",
+  "speaker": "",
+  "kind": "việc cần làm",
+  "text": "Gánh hòm thuốc, theo bà Sương lên Sân Tro",
+  "code": "BS-57",
+  "where": [
+   "scripts/story/bach_son_story.gd:614"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 642,
+  "func": "_gate",
+  "scene": "",
+  "speaker": "Khám sư",
+  "kind": "thoại",
+  "text": "Người tiếp theo. Đưa tay đây.",
+  "code": "BS-58",
+  "where": [
+   "scripts/story/bach_son_story.gd:642"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 646,
+  "func": "_gate",
+  "scene": "",
+  "speaker": "Khám sư",
+  "kind": "thoại",
+  "text": "Trắng.",
+  "code": "BS-59",
+  "where": [
+   "scripts/story/bach_son_story.gd:646",
+   "scripts/story/bach_son_story.gd:657"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 652,
+  "func": "_gate",
+  "scene": "",
+  "speaker": "Khám sư",
+  "kind": "thoại",
+  "text": "Bà Sương. Năm nay cũng lên à?",
+  "code": "BS-60",
+  "where": [
+   "scripts/story/bach_son_story.gd:652"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 653,
+  "func": "_gate",
+  "scene": "",
+  "speaker": "Bà Sương",
+  "kind": "thoại",
+  "text": "Năm nào tôi chẳng lên.",
+  "code": "BS-61",
+  "where": [
+   "scripts/story/bach_son_story.gd:653"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 665,
+  "func": "_gate",
+  "scene": "",
+  "speaker": "Khám sư",
+  "kind": "thoại",
+  "text": "Đưa tay đây. Ngửa bàn tay ra.",
+  "code": "BS-63",
+  "where": [
+   "scripts/story/bach_son_story.gd:665"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 671,
+  "func": "_gate",
+  "scene": "",
+  "speaker": "Khám sư",
+  "kind": "thoại",
+  "text": "Giữ yên.",
+  "code": "BS-64",
+  "where": [
+   "scripts/story/bach_son_story.gd:671"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 676,
+  "func": "_gate",
+  "scene": "",
+  "speaker": "",
+  "kind": "chữ giao diện (Thử Tro: giữ tay yên)",
+  "text": "Space khi tay lắc ra mép",
+  "code": "BS-80",
+  "where": [
+   "scripts/story/bach_son_story.gd:676",
+   "scripts/story/bach_son_city.gd:748"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 676,
+  "func": "_gate",
+  "scene": "",
+  "speaker": "",
+  "kind": "chữ giao diện (Thử Tro: giữ tay yên)",
+  "text": "Tay yên",
+  "code": "BS-264",
+  "where": [
+   "scripts/story/bach_son_story.gd:676",
+   "scripts/story/bach_son_city.gd:748"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 683,
+  "func": "_gate",
+  "scene": "",
+  "speaker": "",
+  "kind": "dấu đóng (Thử Tro)",
+  "text": "XÁM",
+  "code": "BS-65",
+  "where": [
+   "scripts/story/bach_son_story.gd:683",
+   "scripts/story/bach_son_story.gd:830",
+   "scripts/story/bach_son_city.gd:521",
+   "scripts/story/bach_son_city.gd:750"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 684,
+  "func": "_gate",
+  "scene": "",
+  "speaker": "Khám sư",
+  "kind": "thoại",
+  "text": "...Xám.",
+  "code": "BS-66",
+  "where": [
+   "scripts/story/bach_son_story.gd:684",
+   "scripts/story/bach_son_city.gd:751"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 685,
+  "func": "_gate",
+  "scene": "",
+  "speaker": "Bà Sương",
+  "kind": "thoại",
+  "text": "Người gánh hòm thuốc cho tôi đấy. Gánh nặng thì tay nứt thôi.",
+  "code": "BS-67",
+  "where": [
+   "scripts/story/bach_son_story.gd:685"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 686,
+  "func": "_gate",
+  "scene": "",
+  "speaker": "Khám sư",
+  "kind": "thoại",
+  "text": "Sổ ghi xám thì phải giữ lại.",
+  "code": "BS-68",
+  "where": [
+   "scripts/story/bach_son_story.gd:686"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 700,
+  "func": "_gate",
+  "scene": "",
+  "speaker": "",
+  "kind": "lựa chọn",
+  "text": "(Im lặng)",
+  "code": "BS-82",
+  "where": [
+   "scripts/story/bach_son_story.gd:700"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 702,
+  "func": "_gate",
+  "scene": "",
+  "speaker": "",
+  "kind": "lựa chọn",
+  "text": "Cháu bị Nghiệt chạm ở cửa đèo.",
+  "code": "BS-83",
+  "where": [
+   "scripts/story/bach_son_story.gd:702",
+   "scripts/story/bach_son_city.gd:753"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 704,
+  "func": "_gate",
+  "scene": "",
+  "speaker": "",
+  "kind": "lựa chọn",
+  "text": "Cháu đỡ hòm từ tay anh ấy suốt đường.",
+  "code": "BS-84",
+  "where": [
+   "scripts/story/bach_son_story.gd:704"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 736,
+  "func": "_gate_can",
+  "scene": "They keep quiet; lão Cẩn speaks for them. He pays for it later (the Ty makes an example of him).",
+  "speaker": "Lão Cẩn",
+  "kind": "thoại",
+  "text": "Tro ướt.",
+  "code": "BS-69",
+  "where": [
+   "scripts/story/bach_son_story.gd:736"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 737,
+  "func": "_gate_can",
+  "scene": "They keep quiet; lão Cẩn speaks for them. He pays for it later (the Ty makes an example of him).",
+  "speaker": "Khám sư",
+  "kind": "thoại",
+  "text": "Dạ?",
+  "code": "BS-70",
+  "where": [
+   "scripts/story/bach_son_story.gd:737"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 738,
+  "func": "_gate_can",
+  "scene": "They keep quiet; lão Cẩn speaks for them. He pays for it later (the Ty makes an example of him).",
+  "speaker": "Lão Cẩn",
+  "kind": "thoại",
+  "text": "Tay đổ mồ hôi thì tro không ăn. Thử lại đi.",
+  "code": "BS-71",
+  "where": [
+   "scripts/story/bach_son_story.gd:738"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 745,
+  "func": "_gate_can",
+  "scene": "They keep quiet; lão Cẩn speaks for them. He pays for it later (the Ty makes an example of him).",
+  "speaker": "",
+  "kind": "dấu đóng (Thử Tro)",
+  "text": "TRẮNG",
+  "code": "BS-72",
+  "where": [
+   "scripts/story/bach_son_story.gd:745",
+   "scripts/story/bach_son_story.gd:845"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 747,
+  "func": "_gate_can",
+  "scene": "They keep quiet; lão Cẩn speaks for them. He pays for it later (the Ty makes an example of him).",
+  "speaker": "Khám sư",
+  "kind": "thoại",
+  "text": "...Trắng.",
+  "code": "BS-73",
+  "where": [
+   "scripts/story/bach_son_story.gd:747",
+   "scripts/story/bach_son_story.gd:847"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 752,
+  "func": "_gate_can",
+  "scene": "They keep quiet; lão Cẩn speaks for them. He pays for it later (the Ty makes an example of him).",
+  "speaker": "Lão Cẩn",
+  "kind": "thoại",
+  "text": "Đi đi.",
+  "code": "BS-74",
+  "where": [
+   "scripts/story/bach_son_story.gd:752"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 766,
+  "func": "_gate_truth",
+  "scene": "They say it. A night held on the Sân Tro, as Ngọc Khiết was held at nine; in the morning he comes down.",
+  "speaker": "[Tên]",
+  "kind": "thoại",
+  "text": "Cháu bị Nghiệt chạm ở cửa đèo.",
+  "code": "BX-002",
+  "where": [
+   "scripts/story/bach_son_story.gd:766"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 770,
+  "func": "_gate_truth",
+  "scene": "They say it. A night held on the Sân Tro, as Ngọc Khiết was held at nine; in the morning he comes down.",
+  "speaker": "Bà Sương",
+  "kind": "thoại",
+  "text": "Tôi thuê người ở trại hôm qua. Chuyện của người ấy, tôi không biết.",
+  "code": "BS-86",
+  "where": [
+   "scripts/story/bach_son_story.gd:770"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 771,
+  "func": "_gate_truth",
+  "scene": "They say it. A night held on the Sân Tro, as Ngọc Khiết was held at nine; in the morning he comes down.",
+  "speaker": "Khám sư",
+  "kind": "thoại",
+  "text": "Giữ lại.",
+  "code": "BS-87",
+  "where": [
+   "scripts/story/bach_son_story.gd:771"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 783,
+  "func": "_gate_truth",
+  "scene": "They say it. A night held on the Sân Tro, as Ngọc Khiết was held at nine; in the morning he comes down.",
+  "speaker": "",
+  "kind": "thẻ chương / thời gian",
+  "text": "Đêm ở Sân Tro",
+  "code": "BS-88",
+  "where": [
+   "scripts/story/bach_son_story.gd:783"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 787,
+  "func": "_gate_truth",
+  "scene": "They say it. A night held on the Sân Tro, as Ngọc Khiết was held at nine; in the morning he comes down.",
+  "speaker": "(lời kể)",
+  "kind": "thoại",
+  "text": "Dưới chân dốc có tiếng gõ trên sứ, lúc thưa lúc dày. Cổng sau lưng vẫn đóng chặt.",
+  "code": "BS-89",
+  "where": [
+   "scripts/story/bach_son_story.gd:787"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 800,
+  "func": "_gate_truth",
+  "scene": "They say it. A night held on the Sân Tro, as Ngọc Khiết was held at nine; in the morning he comes down.",
+  "speaker": "Khám sư",
+  "kind": "thoại",
+  "text": "Thưa Chánh Ty.",
+  "code": "BS-90",
+  "where": [
+   "scripts/story/bach_son_story.gd:800"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 801,
+  "func": "_gate_truth",
+  "scene": "They say it. A night held on the Sân Tro, as Ngọc Khiết was held at nine; in the morning he comes down.",
+  "speaker": "Chánh Ty",
+  "kind": "thoại",
+  "text": "Khai thật với khám sư à?",
+  "code": "BS-91",
+  "where": [
+   "scripts/story/bach_son_story.gd:801"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 802,
+  "func": "_gate_truth",
+  "scene": "They say it. A night held on the Sân Tro, as Ngọc Khiết was held at nine; in the morning he comes down.",
+  "speaker": "Chánh Ty",
+  "kind": "thoại",
+  "text": "Ba trăm năm nay, chưa ai đứng ở cổng này tự nhận mình bị Nghiệt chạm.",
+  "code": "BS-92",
+  "where": [
+   "scripts/story/bach_son_story.gd:802"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 803,
+  "func": "_gate_truth",
+  "scene": "They say it. A night held on the Sân Tro, as Ngọc Khiết was held at nine; in the morning he comes down.",
+  "speaker": "Chánh Ty",
+  "kind": "thoại",
+  "text": "Cho vào. Sáng nào cũng lên Dinh Ty cho tôi xem tay.",
+  "code": "BS-93",
+  "where": [
+   "scripts/story/bach_son_story.gd:803"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 814,
+  "func": "_gate_blame",
+  "scene": "They point at the porter. His hands are cracked from the yoke, so the ash holds; he is kept, and later put out. Bạch Sơn's own sin, done with Bạch Sơn's own test (docs/N_bach_son.md 9.6).",
+  "speaker": "[Tên]",
+  "kind": "thoại",
+  "text": "Cháu đỡ hòm từ tay anh ấy suốt đường.",
+  "code": "BX-003",
+  "where": [
+   "scripts/story/bach_son_story.gd:814"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 819,
+  "func": "_gate_blame",
+  "scene": "They point at the porter. His hands are cracked from the yoke, so the ash holds; he is kept, and later put out. Bạch Sơn's own sin, done with Bạch Sơn's own test (docs/N_bach_son.md 9.6).",
+  "speaker": "Khám sư",
+  "kind": "thoại",
+  "text": "Anh kia. Đưa tay đây.",
+  "code": "BS-95",
+  "where": [
+   "scripts/story/bach_son_story.gd:819"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 820,
+  "func": "_gate_blame",
+  "scene": "They point at the porter. His hands are cracked from the yoke, so the ash holds; he is kept, and later put out. Bạch Sơn's own sin, done with Bạch Sơn's own test (docs/N_bach_son.md 9.6).",
+  "speaker": "Anh Vững",
+  "kind": "thoại",
+  "text": "Tay tôi... Gánh hòm thì tay nứt chứ.",
+  "code": "BS-96",
+  "where": [
+   "scripts/story/bach_son_story.gd:820"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 827,
+  "func": "_gate_blame",
+  "scene": "They point at the porter. His hands are cracked from the yoke, so the ash holds; he is kept, and later put out. Bạch Sơn's own sin, done with Bạch Sơn's own test (docs/N_bach_son.md 9.6).",
+  "speaker": "",
+  "kind": "tiêu đề thẻ tranh",
+  "text": "Tay anh Vững",
+  "code": "BS-97",
+  "where": [
+   "scripts/story/bach_son_story.gd:827"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 832,
+  "func": "_gate_blame",
+  "scene": "They point at the porter. His hands are cracked from the yoke, so the ash holds; he is kept, and later put out. Bạch Sơn's own sin, done with Bạch Sơn's own test (docs/N_bach_son.md 9.6).",
+  "speaker": "Khám sư",
+  "kind": "thoại",
+  "text": "Xám. Giữ lại.",
+  "code": "BS-98",
+  "where": [
+   "scripts/story/bach_son_story.gd:832"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 833,
+  "func": "_gate_blame",
+  "scene": "They point at the porter. His hands are cracked from the yoke, so the ash holds; he is kept, and later put out. Bạch Sơn's own sin, done with Bạch Sơn's own test (docs/N_bach_son.md 9.6).",
+  "speaker": "Khám sư",
+  "kind": "thoại",
+  "text": "Tay người này dính lây từ tay anh ta. Rửa lại.",
+  "code": "BS-99",
+  "where": [
+   "scripts/story/bach_son_story.gd:833"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 853,
+  "func": "_gate_blame",
+  "scene": "They point at the porter. His hands are cracked from the yoke, so the ash holds; he is kept, and later put out. Bạch Sơn's own sin, done with Bạch Sơn's own test (docs/N_bach_son.md 9.6).",
+  "speaker": "Anh Vững",
+  "kind": "thoại",
+  "text": "Bà Sương, tôi gánh hòm cho bà sáu năm rồi.",
+  "code": "BS-101",
+  "where": [
+   "scripts/story/bach_son_story.gd:853"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 857,
+  "func": "_gate_blame",
+  "scene": "They point at the porter. His hands are cracked from the yoke, so the ash holds; he is kept, and later put out. Bạch Sơn's own sin, done with Bạch Sơn's own test (docs/N_bach_son.md 9.6).",
+  "speaker": "Bà Sương",
+  "kind": "thoại",
+  "text": "Đi thôi.",
+  "code": "BS-102",
+  "where": [
+   "scripts/story/bach_son_story.gd:857"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 896,
+  "func": "_inside",
+  "scene": "",
+  "speaker": "Bà Sương",
+  "kind": "thoại",
+  "text": "Lão gác ấy làm thế nhiều lần rồi. Sớm muộn gì cũng có ngày bị bắt.",
+  "code": "BS-85",
+  "where": [
+   "scripts/story/bach_son_story.gd:896"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 898,
+  "func": "_inside",
+  "scene": "",
+  "speaker": "Bà Sương",
+  "kind": "thoại",
+  "text": "Từ giờ đứng cách tôi ra một quãng.",
+  "code": "BS-94",
+  "where": [
+   "scripts/story/bach_son_story.gd:898"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 905,
+  "func": "_inside",
+  "scene": "",
+  "speaker": "Người đàn bà",
+  "kind": "thoại",
+  "text": "Bà Sương, anh Vững nhà em đâu rồi?",
+  "code": "BS-103",
+  "where": [
+   "scripts/story/bach_son_story.gd:905"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 906,
+  "func": "_inside",
+  "scene": "",
+  "speaker": "Bà Sương",
+  "kind": "thoại",
+  "text": "Bị giữ lại ở cổng.",
+  "code": "BS-104",
+  "where": [
+   "scripts/story/bach_son_story.gd:906"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 911,
+  "func": "_inside",
+  "scene": "",
+  "speaker": "Bà Sương",
+  "kind": "thoại",
+  "text": "Rửa tay đi. Ở đây không rửa là người ta nhìn đấy.",
+  "code": "BS-75",
+  "where": [
+   "scripts/story/bach_son_story.gd:911"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 914,
+  "func": "_inside",
+  "scene": "",
+  "speaker": "",
+  "kind": "nút tương tác / việc cần làm",
+  "text": "Rửa tay",
+  "code": "BS-76b",
+  "where": [
+   "scripts/story/bach_son_story.gd:914",
+   "scripts/story/bach_son_city.gd:234"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 914,
+  "func": "_inside",
+  "scene": "",
+  "speaker": "",
+  "kind": "nút tương tác / việc cần làm",
+  "text": "Rửa tay ở chậu nước trước cửa nhà",
+  "code": "BS-76",
+  "where": [
+   "scripts/story/bach_son_story.gd:914"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 916,
+  "func": "_inside",
+  "scene": "",
+  "speaker": "(lời kể)",
+  "kind": "thoại",
+  "text": "Nước lạnh. Chảy từ tầng trên xuống.",
+  "code": "BS-77",
+  "where": [
+   "scripts/story/bach_son_story.gd:916"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 944,
+  "func": "_palace",
+  "scene": "Part D (docs/N_bach_son.md 8.4, 8.7): the morning after the city's last part, the Chánh Ty comes.",
+  "speaker": "",
+  "kind": "thẻ chương / thời gian",
+  "text": "Sáng hôm sau",
+  "code": "BS-372",
+  "where": [
+   "scripts/story/bach_son_story.gd:944"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 957,
+  "func": "_end_card",
+  "scene": "",
+  "speaker": "",
+  "kind": "thẻ chương / thời gian",
+  "text": "LỄ QUÉT VÔI",
+  "code": "BX-004",
+  "where": [
+   "scripts/story/bach_son_story.gd:957"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 957,
+  "func": "_end_card",
+  "scene": "",
+  "speaker": "",
+  "kind": "thẻ chương / thời gian",
+  "text": "Sáng mai, cả thành sẽ ra Quảng Trường Rửa.",
+  "code": "BS-373",
+  "where": [
+   "scripts/story/bach_son_story.gd:957"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 958,
+  "func": "_end_card",
+  "scene": "",
+  "speaker": "",
+  "kind": "thẻ chương / thời gian",
+  "text": "Hết bản thử Bạch Sơn (tới hết phần D). Phần còn lại ở docs/N_bach_son.md.",
+  "code": "BS-374",
+  "where": [
+   "scripts/story/bach_son_story.gd:958"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 960,
+  "func": "_end_card",
+  "scene": "",
+  "speaker": "",
+  "kind": "thẻ chương / thời gian",
+  "text": "Biến thể (b): không có bạo loạn, không ai chết trong chương. Ty vẫn nguyên vẹn. Bà Tâm không rời Bạch Điện. Cái ngoài cổng không yếu đi.",
+  "code": "BS-375",
+  "where": [
+   "scripts/story/bach_son_story.gd:960"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 961,
+  "func": "_end_card",
+  "scene": "",
+  "speaker": "",
+  "kind": "thẻ chương / thời gian",
+  "text": "Hết bản thử Bạch Sơn (biến thể b). Phần còn lại ở docs/N_bach_son.md.",
+  "code": "BS-376",
+  "where": [
+   "scripts/story/bach_son_story.gd:961"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 968,
+  "func": "_end_card",
+  "scene": "",
+  "speaker": "",
+  "kind": "thẻ chương / thời gian",
+  "text": "BẠCH ĐIỆN",
+  "code": "BS-266",
+  "where": [
+   "scripts/story/bach_son_story.gd:968"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 968,
+  "func": "_end_card",
+  "scene": "",
+  "speaker": "",
+  "kind": "thẻ chương / thời gian",
+  "text": "Sáng hôm sau, người của Ty gõ cửa nhà kho. Chánh Ty mời lên Bạch Điện.",
+  "code": "BS-267",
+  "where": [
+   "scripts/story/bach_son_story.gd:968"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 969,
+  "func": "_end_card",
+  "scene": "",
+  "speaker": "",
+  "kind": "thẻ chương / thời gian",
+  "text": "Hết bản thử Bạch Sơn (tới hết phần C). Đã nhận ra %d trong 5 điều. Phần còn lại ở docs/N_bach_son.md.",
+  "code": "BX-005",
+  "where": [
+   "scripts/story/bach_son_story.gd:969"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 971,
+  "func": "_end_card",
+  "scene": "",
+  "speaker": "",
+  "kind": "thẻ chương / thời gian",
+  "text": "BẠCH SƠN",
+  "code": "BX-006",
+  "where": [
+   "scripts/story/bach_son_story.gd:971"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 971,
+  "func": "_end_card",
+  "scene": "",
+  "speaker": "",
+  "kind": "thẻ chương / thời gian",
+  "text": "Bốn ngày nữa là tới Lễ Quét Vôi",
+  "code": "BS-78",
+  "where": [
+   "scripts/story/bach_son_story.gd:971",
+   "scripts/story/bach_son_city.gd:164",
+   "scripts/story/bach_son_city.gd:266"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_story.gd",
+  "line": 972,
+  "func": "_end_card",
+  "scene": "",
+  "speaker": "",
+  "kind": "thẻ chương / thời gian",
+  "text": "Hết bản thử Bạch Sơn. Phần còn lại của chương ở docs/N_bach_son.md.",
+  "code": "BS-79",
+  "where": [
+   "scripts/story/bach_son_story.gd:972"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 15,
+  "func": "",
+  "scene": "",
+  "speaker": "",
+  "kind": "buổi trong ngày (ghép vào thẻ \"Ngày N · buổi\")",
+  "text": "Sáng",
+  "code": "BX-007",
+  "where": [
+   "scripts/story/bach_son_city.gd:15"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 15,
+  "func": "",
+  "scene": "",
+  "speaker": "",
+  "kind": "buổi trong ngày (ghép vào thẻ \"Ngày N · buổi\")",
+  "text": "Chiều",
+  "code": "BX-008",
+  "where": [
+   "scripts/story/bach_son_city.gd:15"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 15,
+  "func": "",
+  "scene": "",
+  "speaker": "",
+  "kind": "buổi trong ngày (ghép vào thẻ \"Ngày N · buổi\")",
+  "text": "Tối",
+  "code": "BX-009",
+  "where": [
+   "scripts/story/bach_son_city.gd:15"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 17,
+  "func": "",
+  "scene": "",
+  "speaker": "",
+  "kind": "Sổ ghi: điều thấy",
+  "text": "Bà Mẫn xoa tro lên cái chén men rạn rồi dội nước. Kẽ rạn vẫn đen. Da bị Nghiệt chạm cũng có lớp men rạn như thế.",
+  "code": "BS-213",
+  "where": [
+   "scripts/story/bach_son_city.gd:17"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 18,
+  "func": "",
+  "scene": "",
+  "speaker": "",
+  "kind": "Sổ ghi: điều thấy",
+  "text": "Bà Mẫn xoa tro lên tay mình. Ba mươi năm ngâm thuốc, tay bà nứt hết. Thử tro cũng ra xám.",
+  "code": "BS-214",
+  "where": [
+   "scripts/story/bach_son_city.gd:18"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 19,
+  "func": "",
+  "scene": "",
+  "speaker": "",
+  "kind": "Sổ ghi: điều thấy",
+  "text": "Sổ Tro, cột \\\"đen\\\" của người trong thành. Lật mấy chục tập vẫn không có dòng nào.",
+  "code": "BS-215",
+  "where": [
+   "scripts/story/bach_son_city.gd:19"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 20,
+  "func": "",
+  "scene": "",
+  "speaker": "",
+  "kind": "Sổ ghi: điều thấy",
+  "text": "Sắc suốt ba mươi lăm năm nay đều cùng một nét chữ. Cuối mỗi tờ ghi \\\"Chánh Ty Ngọc Khiết soạn\\\", bên dưới đóng ấn của Điện.",
+  "code": "BS-216",
+  "where": [
+   "scripts/story/bach_son_city.gd:20"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 21,
+  "func": "",
+  "scene": "",
+  "speaker": "",
+  "kind": "Sổ ghi: điều thấy",
+  "text": "Một quyển sổ mỏng kẹp trong Sổ Tro. Bên cạnh tên mỗi người là một con số. Trang cuối đóng dấu của một nhà buôn Vạn Thư.",
+  "code": "BS-217",
+  "where": [
+   "scripts/story/bach_son_city.gd:21"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 22,
+  "func": "",
+  "scene": "",
+  "speaker": "",
+  "kind": "Sổ ghi: điều thấy",
+  "text": "Sổ Tro tập đầu, năm PK 21: \\\"Xám thì giữ lại ở Nhà Rửa, đợi Bà.\\\"",
+  "code": "BS-218",
+  "where": [
+   "scripts/story/bach_son_city.gd:22"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 23,
+  "func": "",
+  "scene": "",
+  "speaker": "",
+  "kind": "Sổ ghi: điều thấy",
+  "text": "Sổ Tro tập PK 395. Một nhà ở Tầng Rửa, năm người. Dòng cuối ghi \\\"trẻ nhỏ, chưa tên\\\". Cũng năm ấy, mình bị bỏ ở cửa đèo.",
+  "code": "BS-219",
+  "where": [
+   "scripts/story/bach_son_city.gd:23"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 24,
+  "func": "",
+  "scene": "",
+  "speaker": "",
+  "kind": "Sổ ghi: điều thấy",
+  "text": "Bà Lành kể, đứa bé nhà ấy không qua được mùa đông đầu. Năm đó có đoàn người phương bắc mang theo một đứa bé quấn khăn kẻ ô bàn cờ, đi về phía đèo.",
+  "code": "BS-220",
+  "where": [
+   "scripts/story/bach_son_city.gd:24"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 25,
+  "func": "",
+  "scene": "",
+  "speaker": "",
+  "kind": "Sổ ghi: điều thấy",
+  "text": "Tối hôm ấy, sau Dinh Ty, người của Ty dẫn ba người bị đuổi lên xe trắng. Bà Sương trả tiền.",
+  "code": "BS-221",
+  "where": [
+   "scripts/story/bach_son_city.gd:25"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 26,
+  "func": "",
+  "scene": "",
+  "speaker": "",
+  "kind": "Sổ ghi: điều thấy",
+  "text": "Đền Thầy có bức tranh vẽ một nhát chém chia người sạch và người bẩn. Người coi đền bảo Sứ Giả ngoài cổng sinh ra từ lòng thành của dân.",
+  "code": "BS-222",
+  "where": [
+   "scripts/story/bach_son_city.gd:26"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 27,
+  "func": "",
+  "scene": "",
+  "speaker": "",
+  "kind": "Sổ ghi: điều thấy",
+  "text": "Lúc tay nó chạm vào mình ở trại, mình thấy những ô cửa sáng đèn trong thành. Người đứng sau lớp giấy nhìn xuống. Trên bậc cửa nhà nào cũng có chén sứ.",
+  "code": "BS-223",
+  "where": [
+   "scripts/story/bach_son_city.gd:27"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 28,
+  "func": "",
+  "scene": "",
+  "speaker": "",
+  "kind": "Sổ ghi: điều thấy",
+  "text": "Ông Sẹo kể, năm bảy tuổi ông bị Nghiệt chạm. Bà tự tay rửa men cho ông ở Nhà Rửa. Rồi có một năm Bà không xuống nữa.",
+  "code": "BS-224",
+  "where": [
+   "scripts/story/bach_son_city.gd:28"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 29,
+  "func": "",
+  "scene": "",
+  "speaker": "",
+  "kind": "Sổ ghi: điều thấy",
+  "text": "Anh Vững ngồi ở đầu xe trắng. Anh không ngẩng lên.",
+  "code": "BS-225",
+  "where": [
+   "scripts/story/bach_son_city.gd:29"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 30,
+  "func": "",
+  "scene": "",
+  "speaker": "",
+  "kind": "Sổ ghi: điều thấy",
+  "text": "Đêm cuối, mình không xuống trại. Tay nó thò tận vào lều. Ông Bảy bán than hóa sứ ngay trước cửa lều.",
+  "code": "BS-226",
+  "where": [
+   "scripts/story/bach_son_city.gd:30"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 34,
+  "func": "",
+  "scene": "",
+  "speaker": "",
+  "kind": "Sổ ghi: nhận ra",
+  "text": "Cái cổng có lý do để tồn tại. Tro phát hiện được dấu Nghiệt chạm, nhưng tay nứt vì vôi, thuốc hay gánh cũng ra xám.",
+  "code": "BS-227",
+  "where": [
+   "scripts/story/bach_son_city.gd:34"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 35,
+  "func": "",
+  "scene": "",
+  "speaker": "",
+  "kind": "Sổ ghi: nhận ra",
+  "text": "Bà đóng ấn mà không nhìn. Sắc nào cũng do Chánh Ty soạn. Cột đen trống suốt ba trăm năm mà sắc vẫn được ban xuống.",
+  "code": "BS-228",
+  "where": [
+   "scripts/story/bach_son_city.gd:35"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 36,
+  "func": "",
+  "scene": "",
+  "speaker": "",
+  "kind": "Sổ ghi: nhận ra",
+  "text": "Người bị đuổi không biến mất. Tên họ bị bán, rồi họ bị đưa lên xe trắng sang Vạn Thư.",
+  "code": "BS-229",
+  "where": [
+   "scripts/story/bach_son_city.gd:36"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 37,
+  "func": "",
+  "scene": "",
+  "speaker": "",
+  "kind": "Sổ ghi: nhận ra",
+  "text": "Cả thành đang thờ thứ săn người ngoài cổng. Nó sinh ra từ nỗi sợ sau những ô cửa trong thành.",
+  "code": "BS-230",
+  "where": [
+   "scripts/story/bach_son_city.gd:37"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 38,
+  "func": "",
+  "scene": "",
+  "speaker": "",
+  "kind": "Sổ ghi: nhận ra",
+  "text": "Ngày trước, người bị thử ra xám được giữ ở Nhà Rửa để chờ Bà rửa men. Bà từng chữa cho họ, không đuổi họ đi.",
+  "code": "BS-231",
+  "where": [
+   "scripts/story/bach_son_city.gd:38"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 39,
+  "func": "",
+  "scene": "",
+  "speaker": "",
+  "kind": "Sổ ghi: nhận ra",
+  "text": "Đứa trẻ chưa tên trong sổ năm PK 395 không phải mình.",
+  "code": "BS-232",
+  "where": [
+   "scripts/story/bach_son_city.gd:39"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 132,
+  "func": "add_note",
+  "scene": "",
+  "speaker": "",
+  "kind": "thông báo",
+  "text": "Sổ ghi: thêm một điều thấy (Tab)",
+  "code": "BS-244",
+  "where": [
+   "scripts/story/bach_son_city.gd:132"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 143,
+  "func": "add_note",
+  "scene": "",
+  "speaker": "",
+  "kind": "thông báo",
+  "text": "Nhận ra: ",
+  "code": "BX-010",
+  "where": [
+   "scripts/story/bach_son_city.gd:143"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 153,
+  "func": "add_nghi",
+  "scene": "",
+  "speaker": "",
+  "kind": "thông báo",
+  "text": "Nghi tăng",
+  "code": "BS-246",
+  "where": [
+   "scripts/story/bach_son_city.gd:153"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 155,
+  "func": "add_nghi",
+  "scene": "",
+  "speaker": "",
+  "kind": "thông báo",
+  "text": "Nghi giảm",
+  "code": "BS-247",
+  "where": [
+   "scripts/story/bach_son_city.gd:155"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 164,
+  "func": "_begin_part",
+  "scene": "",
+  "speaker": "",
+  "kind": "thẻ chương / thời gian",
+  "text": "Ngày %d",
+  "code": "BX-011",
+  "where": [
+   "scripts/story/bach_son_city.gd:164"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 164,
+  "func": "_begin_part",
+  "scene": "",
+  "speaker": "",
+  "kind": "thẻ chương / thời gian",
+  "text": "Ba ngày tới Lễ Quét Vôi",
+  "code": "BS-234",
+  "where": [
+   "scripts/story/bach_son_city.gd:164",
+   "scripts/story/bach_son_city.gd:266"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 164,
+  "func": "_begin_part",
+  "scene": "",
+  "speaker": "",
+  "kind": "thẻ chương / thời gian",
+  "text": "Hai ngày tới Lễ Quét Vôi",
+  "code": "BX-012",
+  "where": [
+   "scripts/story/bach_son_city.gd:164",
+   "scripts/story/bach_son_city.gd:266"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 164,
+  "func": "_begin_part",
+  "scene": "",
+  "speaker": "",
+  "kind": "thẻ chương / thời gian",
+  "text": "Mai là Lễ Quét Vôi",
+  "code": "BX-013",
+  "where": [
+   "scripts/story/bach_son_city.gd:164",
+   "scripts/story/bach_son_city.gd:266"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 166,
+  "func": "_begin_part",
+  "scene": "",
+  "speaker": "",
+  "kind": "thẻ chương / thời gian",
+  "text": "Ngày %d · %s",
+  "code": "BX-014",
+  "where": [
+   "scripts/story/bach_son_city.gd:166",
+   "scripts/ui/bs_status.gd:65"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 173,
+  "func": "_begin_part",
+  "scene": "",
+  "speaker": "(lời kể)",
+  "kind": "thoại",
+  "text": "Ngoài Sân Tro có tiếng roi quất. Người qua đường bảo lão gác già bị phạt vì làm ướt tro cho người lạ.",
+  "code": "BS-105",
+  "where": [
+   "scripts/story/bach_son_city.gd:173"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 177,
+  "func": "_begin_part",
+  "scene": "",
+  "speaker": "Chị Gấm (hoặc lời kể)",
+  "kind": "thoại",
+  "text": "Đêm qua tay nó thò vào tận lều. Ông Bảy bán than hóa sứ ngay trước cửa lều.",
+  "code": "BS-106",
+  "where": [
+   "scripts/story/bach_son_city.gd:177"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 236,
+  "func": "_interacts",
+  "scene": "{id: [pos, prompt, kind]} for this level and hour. kind: major (fills the hour), minor, move.",
+  "speaker": "",
+  "kind": "nút tương tác (trong thành)",
+  "text": "Gánh hòm cho bà Sương",
+  "code": "BS-249",
+  "where": [
+   "scripts/story/bach_son_city.gd:236"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 239,
+  "func": "_interacts",
+  "scene": "{id: [pos, prompt, kind]} for this level and hour. kind: major (fills the hour), minor, move.",
+  "speaker": "",
+  "kind": "nút tương tác (trong thành)",
+  "text": "Vào Nhà Rửa",
+  "code": "BS-251",
+  "where": [
+   "scripts/story/bach_son_city.gd:239"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 241,
+  "func": "_interacts",
+  "scene": "{id: [pos, prompt, kind]} for this level and hour. kind: major (fills the hour), minor, move.",
+  "speaker": "",
+  "kind": "nút tương tác (trong thành)",
+  "text": "Chui qua Cửa Cống",
+  "code": "BS-252",
+  "where": [
+   "scripts/story/bach_son_city.gd:241"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 243,
+  "func": "_interacts",
+  "scene": "{id: [pos, prompt, kind]} for this level and hour. kind: major (fills the hour), minor, move.",
+  "speaker": "",
+  "kind": "nút tương tác (trong thành)",
+  "text": "Lên Tầng Giữa",
+  "code": "BS-253",
+  "where": [
+   "scripts/story/bach_son_city.gd:243"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 245,
+  "func": "_interacts",
+  "scene": "{id: [pos, prompt, kind]} for this level and hour. kind: major (fills the hour), minor, move.",
+  "speaker": "",
+  "kind": "nút tương tác (trong thành)",
+  "text": "Cổng tầng đã đóng",
+  "code": "BS-254",
+  "where": [
+   "scripts/story/bach_son_city.gd:245"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 246,
+  "func": "_interacts",
+  "scene": "{id: [pos, prompt, kind]} for this level and hour. kind: major (fills the hour), minor, move.",
+  "speaker": "",
+  "kind": "nút tương tác (trong thành)",
+  "text": "Ngồi đợi tới ",
+  "code": "BX-015",
+  "where": [
+   "scripts/story/bach_son_city.gd:246"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 246,
+  "func": "_interacts",
+  "scene": "{id: [pos, prompt, kind]} for this level and hour. kind: major (fills the hour), minor, move.",
+  "speaker": "",
+  "kind": "nút tương tác (trong thành)",
+  "text": "chiều",
+  "code": "BX-016",
+  "where": [
+   "scripts/story/bach_son_city.gd:246"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 246,
+  "func": "_interacts",
+  "scene": "{id: [pos, prompt, kind]} for this level and hour. kind: major (fills the hour), minor, move.",
+  "speaker": "",
+  "kind": "nút tương tác (trong thành)",
+  "text": "tối",
+  "code": "BX-017",
+  "where": [
+   "scripts/story/bach_son_city.gd:246"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 246,
+  "func": "_interacts",
+  "scene": "{id: [pos, prompt, kind]} for this level and hour. kind: major (fills the hour), minor, move.",
+  "speaker": "",
+  "kind": "nút tương tác (trong thành)",
+  "text": "sáng mai",
+  "code": "BX-018",
+  "where": [
+   "scripts/story/bach_son_city.gd:246"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 248,
+  "func": "_interacts",
+  "scene": "{id: [pos, prompt, kind]} for this level and hour. kind: major (fills the hour), minor, move.",
+  "speaker": "",
+  "kind": "nút tương tác (trong thành)",
+  "text": "Xuống Tầng Rửa",
+  "code": "BS-256",
+  "where": [
+   "scripts/story/bach_son_city.gd:248"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 250,
+  "func": "_interacts",
+  "scene": "{id: [pos, prompt, kind]} for this level and hour. kind: major (fills the hour), minor, move.",
+  "speaker": "",
+  "kind": "nút tương tác (trong thành)",
+  "text": "Vào Y Viện",
+  "code": "BS-257",
+  "where": [
+   "scripts/story/bach_son_city.gd:250"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 251,
+  "func": "_interacts",
+  "scene": "{id: [pos, prompt, kind]} for this level and hour. kind: major (fills the hour), minor, move.",
+  "speaker": "",
+  "kind": "nút tương tác (trong thành)",
+  "text": "Dinh Ty",
+  "code": "BS-258",
+  "where": [
+   "scripts/story/bach_son_city.gd:251"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 252,
+  "func": "_interacts",
+  "scene": "{id: [pos, prompt, kind]} for this level and hour. kind: major (fills the hour), minor, move.",
+  "speaker": "",
+  "kind": "nút tương tác (trong thành)",
+  "text": "Lên Tầng Đền",
+  "code": "BS-259",
+  "where": [
+   "scripts/story/bach_son_city.gd:252"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 254,
+  "func": "_interacts",
+  "scene": "{id: [pos, prompt, kind]} for this level and hour. kind: major (fills the hour), minor, move.",
+  "speaker": "",
+  "kind": "nút tương tác (trong thành)",
+  "text": "Ra sau Dinh Ty",
+  "code": "BS-260",
+  "where": [
+   "scripts/story/bach_son_city.gd:254"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 256,
+  "func": "_interacts",
+  "scene": "{id: [pos, prompt, kind]} for this level and hour. kind: major (fills the hour), minor, move.",
+  "speaker": "",
+  "kind": "nút tương tác (trong thành)",
+  "text": "Xuống Tầng Giữa",
+  "code": "BS-261",
+  "where": [
+   "scripts/story/bach_son_city.gd:256"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 258,
+  "func": "_interacts",
+  "scene": "{id: [pos, prompt, kind]} for this level and hour. kind: major (fills the hour), minor, move.",
+  "speaker": "",
+  "kind": "nút tương tác (trong thành)",
+  "text": "Vào Đền Thầy",
+  "code": "BS-262",
+  "where": [
+   "scripts/story/bach_son_city.gd:258"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 266,
+  "func": "_part_loop",
+  "scene": "Walk about; small things (wash, talk, go up or down a tier) do not use the hour; one thing of weight does.",
+  "speaker": "",
+  "kind": "việc cần làm",
+  "text": "%s. Đi đâu tùy mình (Tab: Sổ ghi)",
+  "code": "BX-019",
+  "where": [
+   "scripts/story/bach_son_city.gd:266"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 339,
+  "func": "_do",
+  "scene": "",
+  "speaker": "",
+  "kind": "thông báo",
+  "text": "Tối rồi. Cổng các tầng đóng hết rồi.",
+  "code": "BS-107",
+  "where": [
+   "scripts/story/bach_son_city.gd:339"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 349,
+  "func": "_do",
+  "scene": "",
+  "speaker": "Thư lại",
+  "kind": "thoại",
+  "text": "Không có việc thì đi chỗ khác.",
+  "code": "BS-108",
+  "where": [
+   "scripts/story/bach_son_city.gd:349"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 356,
+  "func": "_do",
+  "scene": "",
+  "speaker": "(lời kể)",
+  "kind": "thoại",
+  "text": "Ngồi bên bể rửa, nhìn người ta rửa tay.",
+  "code": "BX-020",
+  "where": [
+   "scripts/story/bach_son_city.gd:356"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 356,
+  "func": "_do",
+  "scene": "",
+  "speaker": "(lời kể)",
+  "kind": "thoại",
+  "text": "Ngồi đợi tiếng chuông cổng.",
+  "code": "BX-021",
+  "where": [
+   "scripts/story/bach_son_city.gd:356"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 356,
+  "func": "_do",
+  "scene": "",
+  "speaker": "(lời kể)",
+  "kind": "thoại",
+  "text": "Về chỗ ngủ trong nhà kho của bà Sương.",
+  "code": "BX-022",
+  "where": [
+   "scripts/story/bach_son_city.gd:356"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 371,
+  "func": "_wash",
+  "scene": "",
+  "speaker": "(lời kể)",
+  "kind": "thoại",
+  "text": "Nước lạnh.",
+  "code": "BS-112",
+  "where": [
+   "scripts/story/bach_son_city.gd:371"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 383,
+  "func": "_maty",
+  "scene": "The Mắt Ty: report someone and the Ty forgets about you for a while (docs 9.6). Each name, once.",
+  "speaker": "Người áo lam",
+  "kind": "thoại",
+  "text": "Người gánh hòm cho bà Sương đấy à?",
+  "code": "BS-113",
+  "where": [
+   "scripts/story/bach_son_city.gd:383"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 384,
+  "func": "_maty",
+  "scene": "The Mắt Ty: report someone and the Ty forgets about you for a while (docs 9.6). Each name, once.",
+  "speaker": "Người áo lam",
+  "kind": "thoại",
+  "text": "Ở đây thấy gì thì báo cho Ty. Báo đúng, Ty sẽ nhớ.",
+  "code": "BS-114",
+  "where": [
+   "scripts/story/bach_son_city.gd:384"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 386,
+  "func": "_maty",
+  "scene": "The Mắt Ty: report someone and the Ty forgets about you for a while (docs 9.6). Each name, once.",
+  "speaker": "Người áo lam",
+  "kind": "thoại",
+  "text": "Thấy gì thì cứ báo.",
+  "code": "BS-115",
+  "where": [
+   "scripts/story/bach_son_city.gd:386"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 390,
+  "func": "_maty",
+  "scene": "The Mắt Ty: report someone and the Ty forgets about you for a while (docs 9.6). Each name, once.",
+  "speaker": "",
+  "kind": "lựa chọn",
+  "text": "Ông già ở Nhà Rửa.",
+  "code": "BS-116",
+  "where": [
+   "scripts/story/bach_son_city.gd:390"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 393,
+  "func": "_maty",
+  "scene": "The Mắt Ty: report someone and the Ty forgets about you for a while (docs 9.6). Each name, once.",
+  "speaker": "",
+  "kind": "lựa chọn",
+  "text": "Chị Gấm ở Nhà Rửa.",
+  "code": "BS-117",
+  "where": [
+   "scripts/story/bach_son_city.gd:393"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 395,
+  "func": "_maty",
+  "scene": "The Mắt Ty: report someone and the Ty forgets about you for a while (docs 9.6). Each name, once.",
+  "speaker": "",
+  "kind": "lựa chọn",
+  "text": "Không thấy ai.",
+  "code": "BS-118",
+  "where": [
+   "scripts/story/bach_son_city.gd:395"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 404,
+  "func": "_maty",
+  "scene": "The Mắt Ty: report someone and the Ty forgets about you for a while (docs 9.6). Each name, once.",
+  "speaker": "Người áo lam",
+  "kind": "thoại",
+  "text": "Ừ. Cứ để Ty lo.",
+  "code": "BS-119",
+  "where": [
+   "scripts/story/bach_son_city.gd:404"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 420,
+  "func": "_porter",
+  "scene": "Carrying for bà Sương: the Ty likes a porter who carries. The first time, the chest goes to the Dinh Ty, and the Sổ Tro lies open while the clerk is called away.",
+  "speaker": "Bà Sương",
+  "kind": "thoại",
+  "text": "Lên Y Viện lấy mấy gói thuốc cho tôi.",
+  "code": "BX-023",
+  "where": [
+   "scripts/story/bach_son_city.gd:420"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 420,
+  "func": "_porter",
+  "scene": "Carrying for bà Sương: the Ty likes a porter who carries. The first time, the chest goes to the Dinh Ty, and the Sổ Tro lies open while the clerk is called away.",
+  "speaker": "Bà Sương",
+  "kind": "thoại",
+  "text": "Mang hòm ra Sân Tro. Người của Hội Y đang đợi.",
+  "code": "BX-024",
+  "where": [
+   "scripts/story/bach_son_city.gd:420"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 420,
+  "func": "_porter",
+  "scene": "Carrying for bà Sương: the Ty likes a porter who carries. The first time, the chest goes to the Dinh Ty, and the Sổ Tro lies open while the clerk is called away.",
+  "speaker": "Bà Sương",
+  "kind": "thoại",
+  "text": "Hòm hôm nay nhẹ đấy. Đi nhanh rồi về.",
+  "code": "BX-025",
+  "where": [
+   "scripts/story/bach_son_city.gd:420"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 425,
+  "func": "_porter",
+  "scene": "Carrying for bà Sương: the Ty likes a porter who carries. The first time, the chest goes to the Dinh Ty, and the Sổ Tro lies open while the clerk is called away.",
+  "speaker": "(lời kể)",
+  "kind": "thoại",
+  "text": "Hòm nặng trĩu. Người qua đường nhìn cái hòm, chẳng ai nhìn người đang gánh.",
+  "code": "BS-123",
+  "where": [
+   "scripts/story/bach_son_city.gd:425"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 431,
+  "func": "_porter",
+  "scene": "Carrying for bà Sương: the Ty likes a porter who carries. The first time, the chest goes to the Dinh Ty, and the Sổ Tro lies open while the clerk is called away.",
+  "speaker": "Bà Sương",
+  "kind": "thoại",
+  "text": "Hôm nay mang hòm lên Dinh Ty. Hội Y phải trình sổ thuốc cho Ty.",
+  "code": "BS-124",
+  "where": [
+   "scripts/story/bach_son_city.gd:431"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 441,
+  "func": "_porter",
+  "scene": "Carrying for bà Sương: the Ty likes a porter who carries. The first time, the chest goes to the Dinh Ty, and the Sổ Tro lies open while the clerk is called away.",
+  "speaker": "Thư lại",
+  "kind": "thoại",
+  "text": "Đặt hòm ở kia. Đứng chờ.",
+  "code": "BS-125",
+  "where": [
+   "scripts/story/bach_son_city.gd:441"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 443,
+  "func": "_porter",
+  "scene": "Carrying for bà Sương: the Ty likes a porter who carries. The first time, the chest goes to the Dinh Ty, and the Sổ Tro lies open while the clerk is called away.",
+  "speaker": "Thư lại",
+  "kind": "thoại",
+  "text": "Chánh Ty gọi. Đừng động vào thứ gì.",
+  "code": "BS-126",
+  "where": [
+   "scripts/story/bach_son_city.gd:443"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 450,
+  "func": "_porter",
+  "scene": "Carrying for bà Sương: the Ty likes a porter who carries. The first time, the chest goes to the Dinh Ty, and the Sổ Tro lies open while the clerk is called away.",
+  "speaker": "",
+  "kind": "tiêu đề thẻ tranh",
+  "text": "Sổ Tro, Tầng Rửa",
+  "code": "BS-127",
+  "where": [
+   "scripts/story/bach_son_city.gd:450"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 452,
+  "func": "_porter",
+  "scene": "Carrying for bà Sương: the Ty likes a porter who carries. The first time, the chest goes to the Dinh Ty, and the Sổ Tro lies open while the clerk is called away.",
+  "speaker": "(lời kể)",
+  "kind": "thoại",
+  "text": "Mỗi dòng ghi một người, có ba cột: trắng, xám, đen. Lật mấy chục trang, cột đen vẫn trống trơn.",
+  "code": "BS-128",
+  "where": [
+   "scripts/story/bach_son_city.gd:452"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 454,
+  "func": "_porter",
+  "scene": "Carrying for bà Sương: the Ty likes a porter who carries. The first time, the chest goes to the Dinh Ty, and the Sổ Tro lies open while the clerk is called away.",
+  "speaker": "",
+  "kind": "tiêu đề thẻ tranh",
+  "text": "Các sắc, cuối tập",
+  "code": "BS-129",
+  "where": [
+   "scripts/story/bach_son_city.gd:454"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 455,
+  "func": "_porter",
+  "scene": "Carrying for bà Sương: the Ty likes a porter who carries. The first time, the chest goes to the Dinh Ty, and the Sổ Tro lies open while the clerk is called away.",
+  "speaker": "(lời kể)",
+  "kind": "thoại",
+  "text": "Cuối tập là các tờ sắc. Nét chữ tờ nào cũng giống nhau. Dòng cuối ghi \\\"Chánh Ty Ngọc Khiết soạn\\\", bên dưới là ấn của Điện.",
+  "code": "BS-130",
+  "where": [
+   "scripts/story/bach_son_city.gd:455"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 457,
+  "func": "_porter",
+  "scene": "Carrying for bà Sương: the Ty likes a porter who carries. The first time, the chest goes to the Dinh Ty, and the Sổ Tro lies open while the clerk is called away.",
+  "speaker": "",
+  "kind": "tiêu đề thẻ tranh",
+  "text": "Quyển mỏng kẹp giữa",
+  "code": "BS-131",
+  "where": [
+   "scripts/story/bach_son_city.gd:457"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 458,
+  "func": "_porter",
+  "scene": "Carrying for bà Sương: the Ty likes a porter who carries. The first time, the chest goes to the Dinh Ty, and the Sổ Tro lies open while the clerk is called away.",
+  "speaker": "(lời kể)",
+  "kind": "thoại",
+  "text": "Kẹp giữa Sổ Tro là một quyển mỏng. Bên cạnh mỗi tên là một con số. Trang cuối đóng dấu của một nhà buôn Vạn Thư.",
+  "code": "BS-132",
+  "where": [
+   "scripts/story/bach_son_city.gd:458"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 460,
+  "func": "_porter",
+  "scene": "Carrying for bà Sương: the Ty likes a porter who carries. The first time, the chest goes to the Dinh Ty, and the Sổ Tro lies open while the clerk is called away.",
+  "speaker": "",
+  "kind": "tiêu đề thẻ tranh",
+  "text": "Sổ Tro, tập đầu",
+  "code": "BS-133",
+  "where": [
+   "scripts/story/bach_son_city.gd:460"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 461,
+  "func": "_porter",
+  "scene": "Carrying for bà Sương: the Ty likes a porter who carries. The first time, the chest goes to the Dinh Ty, and the Sổ Tro lies open while the clerk is called away.",
+  "speaker": "(lời kể)",
+  "kind": "thoại",
+  "text": "Tập đầu tiên, năm PK 21. Mực đã nhạt: \\\"Xám thì giữ lại ở Nhà Rửa, đợi Bà.\\\"",
+  "code": "BS-134",
+  "where": [
+   "scripts/story/bach_son_city.gd:461"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 463,
+  "func": "_porter",
+  "scene": "Carrying for bà Sương: the Ty likes a porter who carries. The first time, the chest goes to the Dinh Ty, and the Sổ Tro lies open while the clerk is called away.",
+  "speaker": "",
+  "kind": "tiêu đề thẻ tranh",
+  "text": "Sổ Tro, tập PK 395",
+  "code": "BS-135",
+  "where": [
+   "scripts/story/bach_son_city.gd:463"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 465,
+  "func": "_porter",
+  "scene": "Carrying for bà Sương: the Ty likes a porter who carries. The first time, the chest goes to the Dinh Ty, and the Sổ Tro lies open while the clerk is called away.",
+  "speaker": "(lời kể)",
+  "kind": "thoại",
+  "text": "Tập năm PK 395. \\\"Nhà (tro che mất tên), Tầng Rửa, Luật Cả Nhà. Năm người. Trẻ nhỏ, chưa tên.\\\"",
+  "code": "BS-136",
+  "where": [
+   "scripts/story/bach_son_city.gd:465"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 474,
+  "func": "_porter",
+  "scene": "Carrying for bà Sương: the Ty likes a porter who carries. The first time, the chest goes to the Dinh Ty, and the Sổ Tro lies open while the clerk is called away.",
+  "speaker": "Thư lại",
+  "kind": "thoại",
+  "text": "Xong rồi thì đi.",
+  "code": "BS-137",
+  "where": [
+   "scripts/story/bach_son_city.gd:474"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 484,
+  "func": "_porter",
+  "scene": "Carrying for bà Sương: the Ty likes a porter who carries. The first time, the chest goes to the Dinh Ty, and the Sổ Tro lies open while the clerk is called away.",
+  "speaker": "Bà Sương",
+  "kind": "thoại",
+  "text": "Tối mai ra sau Dinh Ty. Có mấy cái hòm cần khiêng.",
+  "code": "BS-138",
+  "where": [
+   "scripts/story/bach_son_city.gd:484"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 492,
+  "func": "_y_vien",
+  "scene": "",
+  "speaker": "Bà Mẫn",
+  "kind": "thoại",
+  "text": "Đi đi. Ở đây lâu quá, người ta để ý đấy.",
+  "code": "BS-139",
+  "where": [
+   "scripts/story/bach_son_city.gd:492"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 499,
+  "func": "_y_vien",
+  "scene": "",
+  "speaker": "Bà Mẫn",
+  "kind": "thoại",
+  "text": "Ai đấy? Người lạ à? Từ Vô Danh Cốc lên sao?",
+  "code": "BS-140",
+  "where": [
+   "scripts/story/bach_son_city.gd:499"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 500,
+  "func": "_y_vien",
+  "scene": "",
+  "speaker": "Bà Mẫn",
+  "kind": "thoại",
+  "text": "Lúa còn sống không?",
+  "code": "BS-141",
+  "where": [
+   "scripts/story/bach_son_city.gd:500"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 502,
+  "func": "_y_vien",
+  "scene": "",
+  "speaker": "Bà Mẫn",
+  "kind": "thoại",
+  "text": "...Ừ.",
+  "code": "BS-143",
+  "where": [
+   "scripts/story/bach_son_city.gd:502"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 503,
+  "func": "_y_vien",
+  "scene": "",
+  "speaker": "Bà Mẫn",
+  "kind": "thoại",
+  "text": "Nó theo bà xuống Cửa Cống chữa cho người trong trại. Người ta bắt nó chứ không bắt bà. Bà còn chữa cho nhà Chánh Ty cơ mà.",
+  "code": "BS-144",
+  "where": [
+   "scripts/story/bach_son_city.gd:503"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 504,
+  "func": "_y_vien",
+  "scene": "",
+  "speaker": "[Tên]",
+  "kind": "thoại",
+  "text": "Thử tro ở cổng thì biết được gì ạ?",
+  "code": "BS-145",
+  "where": [
+   "scripts/story/bach_son_city.gd:504"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 505,
+  "func": "_y_vien",
+  "scene": "",
+  "speaker": "Bà Mẫn",
+  "kind": "thoại",
+  "text": "Ngồi xuống đây.",
+  "code": "BS-146",
+  "where": [
+   "scripts/story/bach_son_city.gd:505"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 509,
+  "func": "_y_vien",
+  "scene": "",
+  "speaker": "",
+  "kind": "tiêu đề thẻ tranh",
+  "text": "Cái chén men rạn",
+  "code": "BS-147",
+  "where": [
+   "scripts/story/bach_son_city.gd:509"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 512,
+  "func": "_y_vien",
+  "scene": "",
+  "speaker": "Bà Mẫn",
+  "kind": "thoại",
+  "text": "Tro có biết Nghiệt là gì đâu. Nó chỉ chui vào kẽ thôi. Da bị Nghiệt chạm cũng có lớp men rạn như cái chén này, nên tro mới bám vào.",
+  "code": "BS-149",
+  "where": [
+   "scripts/story/bach_son_city.gd:512"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 518,
+  "func": "_y_vien",
+  "scene": "",
+  "speaker": "",
+  "kind": "tiêu đề thẻ tranh",
+  "text": "Tay bà Mẫn",
+  "code": "BS-150",
+  "where": [
+   "scripts/story/bach_son_city.gd:518"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 522,
+  "func": "_y_vien",
+  "scene": "",
+  "speaker": "Bà Mẫn",
+  "kind": "thoại",
+  "text": "Tay bà ngâm thuốc suốt ba mươi năm, nứt hết cả rồi. Ra cổng thử tro, bà cũng bị tính là xám thôi.",
+  "code": "BS-152",
+  "where": [
+   "scripts/story/bach_son_city.gd:522"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 523,
+  "func": "_y_vien",
+  "scene": "",
+  "speaker": "Bà Mẫn",
+  "kind": "thoại",
+  "text": "Ba trăm năm nay, trong thành có ai bị Nghiệt chạm đâu. Thế mà năm nào cũng có người bị thử ra xám.",
+  "code": "BS-153",
+  "where": [
+   "scripts/story/bach_son_city.gd:523"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 527,
+  "func": "_y_vien",
+  "scene": "",
+  "speaker": "Bà Mẫn",
+  "kind": "thoại",
+  "text": "Tối muốn xuống trại thì tìm Cửa Cống ở góc quảng trường. Cẩn thận, đừng để người áo lam trông thấy.",
+  "code": "BS-154",
+  "where": [
+   "scripts/story/bach_son_city.gd:527"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 533,
+  "func": "_den_thay",
+  "scene": "",
+  "speaker": "Người coi đền",
+  "kind": "thoại",
+  "text": "Tối nhớ đặt chén lên bậc cửa.",
+  "code": "BS-155",
+  "where": [
+   "scripts/story/bach_son_city.gd:533"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 540,
+  "func": "_den_thay",
+  "scene": "",
+  "speaker": "Người coi đền",
+  "kind": "thoại",
+  "text": "Rửa tay chưa? Rồi thì vào đi.",
+  "code": "BS-156",
+  "where": [
+   "scripts/story/bach_son_city.gd:540"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 544,
+  "func": "_den_thay",
+  "scene": "",
+  "speaker": "",
+  "kind": "tiêu đề thẻ tranh",
+  "text": "Tranh thờ",
+  "code": "BS-157",
+  "where": [
+   "scripts/story/bach_son_city.gd:544"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 546,
+  "func": "_den_thay",
+  "scene": "",
+  "speaker": "Người coi đền",
+  "kind": "thoại",
+  "text": "Thầy của Bà đấy. Một nhát chém, người sạch một bên, người bẩn một bên.",
+  "code": "BS-158",
+  "where": [
+   "scripts/story/bach_son_city.gd:546"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 547,
+  "func": "_den_thay",
+  "scene": "",
+  "speaker": "[Tên]",
+  "kind": "thoại",
+  "text": "Ông cháu bổ củi đâu có chém kiểu ấy.",
+  "code": "BS-159",
+  "where": [
+   "scripts/story/bach_son_city.gd:547"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 548,
+  "func": "_den_thay",
+  "scene": "",
+  "speaker": "Người coi đền",
+  "kind": "thoại",
+  "text": "Ông cháu thì biết cái gì.",
+  "code": "BS-160",
+  "where": [
+   "scripts/story/bach_son_city.gd:548"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 550,
+  "func": "_den_thay",
+  "scene": "",
+  "speaker": "(lời kể)",
+  "kind": "thoại",
+  "text": "Nét chém trong tranh không dừng lại ở đâu. Nó kéo thẳng xuống tận mép tranh.",
+  "code": "BS-162",
+  "where": [
+   "scripts/story/bach_son_city.gd:550"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 553,
+  "func": "_den_thay",
+  "scene": "",
+  "speaker": "Người coi đền",
+  "kind": "thoại",
+  "text": "Sứ Giả ngoài cổng cũng từ lòng thành của dân mình mà ra. Nó có đụng đến ai trong thành đâu.",
+  "code": "BS-163",
+  "where": [
+   "scripts/story/bach_son_city.gd:553"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 554,
+  "func": "_den_thay",
+  "scene": "",
+  "speaker": "Người coi đền",
+  "kind": "thoại",
+  "text": "Tối về nhớ đặt một chén lên bậc. Nhà nào cũng đặt cả.",
+  "code": "BS-164",
+  "where": [
+   "scripts/story/bach_son_city.gd:554"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 566,
+  "func": "_nha_rua",
+  "scene": "",
+  "speaker": "Chị Gấm",
+  "kind": "thoại",
+  "text": "Sáng nay người của Ty xuống đưa ông ấy ra cổng. Ông ấy chẳng mang theo thứ gì.",
+  "code": "BS-165",
+  "where": [
+   "scripts/story/bach_son_city.gd:566"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 571,
+  "func": "_nha_rua",
+  "scene": "",
+  "speaker": "Chị Gấm",
+  "kind": "thoại",
+  "text": "Ông ấy ngủ rồi. Cứ để ông ấy ngủ.",
+  "code": "BS-166",
+  "where": [
+   "scripts/story/bach_son_city.gd:571"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 578,
+  "func": "_nha_rua",
+  "scene": "",
+  "speaker": "Chị Gấm",
+  "kind": "thoại",
+  "text": "Tìm ai? Đây là chỗ giặt đồ liệm. Người trên kia chẳng xuống đây đâu.",
+  "code": "BS-167",
+  "where": [
+   "scripts/story/bach_son_city.gd:578"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 585,
+  "func": "_nha_rua",
+  "scene": "",
+  "speaker": "Ông Sẹo",
+  "kind": "thoại",
+  "text": "Cứ để người ta vào, Gấm.",
+  "code": "BS-168",
+  "where": [
+   "scripts/story/bach_son_city.gd:585"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 586,
+  "func": "_nha_rua",
+  "scene": "",
+  "speaker": "Ông Sẹo",
+  "kind": "thoại",
+  "text": "Người gánh hòm cho mụ Sương phải không? Ngồi đi. Khoan, đừng ngồi chỗ ấy. Chỗ lõm kia là chỗ Bà từng ngồi.",
+  "code": "BS-169",
+  "where": [
+   "scripts/story/bach_son_city.gd:586"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 587,
+  "func": "_nha_rua",
+  "scene": "",
+  "speaker": "[Tên]",
+  "kind": "thoại",
+  "text": "Bà nào ạ?",
+  "code": "BS-170",
+  "where": [
+   "scripts/story/bach_son_city.gd:587"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 588,
+  "func": "_nha_rua",
+  "scene": "",
+  "speaker": "Ông Sẹo",
+  "kind": "thoại",
+  "text": "Bà trên Điện ấy.",
+  "code": "BS-171",
+  "where": [
+   "scripts/story/bach_son_city.gd:588"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 589,
+  "func": "_nha_rua",
+  "scene": "",
+  "speaker": "Ông Sẹo",
+  "kind": "thoại",
+  "text": "Năm tôi bảy tuổi, tay bị Nghiệt chạm. Thử tro ra xám, người ta đưa tôi xuống đây.",
+  "code": "BS-172",
+  "where": [
+   "scripts/story/bach_son_city.gd:589"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 590,
+  "func": "_nha_rua",
+  "scene": "",
+  "speaker": "Ông Sẹo",
+  "kind": "thoại",
+  "text": "Bà ngồi đúng chỗ ấy, nắm cổ tay tôi rồi cạo lớp men đi. Chỉ còn cái sẹo này.",
+  "code": "BS-173",
+  "where": [
+   "scripts/story/bach_son_city.gd:590"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 591,
+  "func": "_nha_rua",
+  "scene": "",
+  "speaker": "[Tên]",
+  "kind": "thoại",
+  "text": "Tay ra xám mà không bị đuổi ạ?",
+  "code": "BS-174",
+  "where": [
+   "scripts/story/bach_son_city.gd:591"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 592,
+  "func": "_nha_rua",
+  "scene": "",
+  "speaker": "Ông Sẹo",
+  "kind": "thoại",
+  "text": "Hồi ấy xám thì giữ lại, chờ Bà rửa men. Sau này Bà không xuống nữa. Từ đó, cứ xám là bị đuổi.",
+  "code": "BS-175",
+  "where": [
+   "scripts/story/bach_son_city.gd:592"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 593,
+  "func": "_nha_rua",
+  "scene": "",
+  "speaker": "Chị Gấm",
+  "kind": "thoại",
+  "text": "Ông lại kể chuyện ngày xưa rồi.",
+  "code": "BS-176",
+  "where": [
+   "scripts/story/bach_son_city.gd:593"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 594,
+  "func": "_nha_rua",
+  "scene": "",
+  "speaker": "Ông Sẹo",
+  "kind": "thoại",
+  "text": "Cái chén ngoài bậc là tôi đặt cho Bà. Không phải cho thứ ngoài cổng ấy.",
+  "code": "BS-177",
+  "where": [
+   "scripts/story/bach_son_city.gd:594"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 616,
+  "func": "_cart",
+  "scene": "Evening, behind the Dinh Ty: what the white cart carries (8.3, 6.6). The same cart as at the camp.",
+  "speaker": "Bà Sương",
+  "kind": "thoại",
+  "text": "Đặt hòm lên xe. Cẩn thận đấy.",
+  "code": "BS-178",
+  "where": [
+   "scripts/story/bach_son_city.gd:616"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 624,
+  "func": "_cart",
+  "scene": "Evening, behind the Dinh Ty: what the white cart carries (8.3, 6.6). The same cart as at the camp.",
+  "speaker": "(lời kể)",
+  "kind": "thoại",
+  "text": "Người áo lam dẫn ba người ra từ cửa sau Dinh Ty. Tay họ bị trói lỏng. Họ trèo lên xe rồi chui xuống dưới tấm vải trắng.",
+  "code": "BS-179",
+  "where": [
+   "scripts/story/bach_son_city.gd:624"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 627,
+  "func": "_cart",
+  "scene": "Evening, behind the Dinh Ty: what the white cart carries (8.3, 6.6). The same cart as at the camp.",
+  "speaker": "Người áo lam",
+  "kind": "thoại",
+  "text": "Ba người. Đúng như trong sổ.",
+  "code": "BS-180",
+  "where": [
+   "scripts/story/bach_son_city.gd:627"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 628,
+  "func": "_cart",
+  "scene": "Evening, behind the Dinh Ty: what the white cart carries (8.3, 6.6). The same cart as at the camp.",
+  "speaker": "Bà Sương",
+  "kind": "thoại",
+  "text": "Ba người.",
+  "code": "BS-181",
+  "where": [
+   "scripts/story/bach_son_city.gd:628"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 631,
+  "func": "_cart",
+  "scene": "Evening, behind the Dinh Ty: what the white cart carries (8.3, 6.6). The same cart as at the camp.",
+  "speaker": "(lời kể)",
+  "kind": "thoại",
+  "text": "Anh Vững ngồi ở đầu xe. Anh cúi mặt, không ngẩng lên.",
+  "code": "BS-182",
+  "where": [
+   "scripts/story/bach_son_city.gd:631"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 634,
+  "func": "_cart",
+  "scene": "Evening, behind the Dinh Ty: what the white cart carries (8.3, 6.6). The same cart as at the camp.",
+  "speaker": "[Tên]",
+  "kind": "thoại",
+  "text": "Họ đi đâu vậy?",
+  "code": "BS-183",
+  "where": [
+   "scripts/story/bach_son_city.gd:634"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 635,
+  "func": "_cart",
+  "scene": "Evening, behind the Dinh Ty: what the white cart carries (8.3, 6.6). The same cart as at the camp.",
+  "speaker": "Bà Sương",
+  "kind": "thoại",
+  "text": "Đi chữa bệnh. Ở Vạn Thư, người ta hiểu về men hơn ở đây. Tôi đã cứu được hai người rồi.",
+  "code": "BS-184",
+  "where": [
+   "scripts/story/bach_son_city.gd:635"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 636,
+  "func": "_cart",
+  "scene": "Evening, behind the Dinh Ty: what the white cart carries (8.3, 6.6). The same cart as at the camp.",
+  "speaker": "[Tên]",
+  "kind": "thoại",
+  "text": "Thế còn những người khác?",
+  "code": "BS-185",
+  "where": [
+   "scripts/story/bach_son_city.gd:636"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 637,
+  "func": "_cart",
+  "scene": "Evening, behind the Dinh Ty: what the white cart carries (8.3, 6.6). The same cart as at the camp.",
+  "speaker": "Bà Sương",
+  "kind": "thoại",
+  "text": "Về ngủ đi.",
+  "code": "BS-186",
+  "where": [
+   "scripts/story/bach_son_city.gd:637"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 654,
+  "func": "_camp_night",
+  "scene": "Through the Cửa Cống to the camp at night (Nghi): bà Lành, the nong, and the hand at the tents (8.3).",
+  "speaker": "(lời kể)",
+  "kind": "thoại",
+  "text": "Cửa Cống thấp, phải cúi gập người mới chui qua được. Nước thải ngập đến đầu gối.",
+  "code": "BS-187",
+  "where": [
+   "scripts/story/bach_son_city.gd:654"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 668,
+  "func": "_camp_night",
+  "scene": "Through the Cửa Cống to the camp at night (Nghi): bà Lành, the nong, and the hand at the tents (8.3).",
+  "speaker": "Bà Lành",
+  "kind": "thoại",
+  "text": "Lại xuống đây à? Ngồi đi. Trên ấy có ai lo cho cháu ăn đâu.",
+  "code": "BS-188",
+  "where": [
+   "scripts/story/bach_son_city.gd:668"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 671,
+  "func": "_camp_night",
+  "scene": "Through the Cửa Cống to the camp at night (Nghi): bà Lành, the nong, and the hand at the tents (8.3).",
+  "speaker": "[Tên]",
+  "kind": "thoại",
+  "text": "Bà ơi, năm PK 395 có nhà nào ở Tầng Rửa bị đuổi, mang theo một đứa bé chưa đặt tên không?",
+  "code": "BS-189",
+  "where": [
+   "scripts/story/bach_son_city.gd:671"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 675,
+  "func": "_camp_night",
+  "scene": "Through the Cửa Cống to the camp at night (Nghi): bà Lành, the nong, and the hand at the tents (8.3).",
+  "speaker": "",
+  "kind": "tiêu đề thẻ tranh",
+  "text": "Cái nong của bà Lành",
+  "code": "BS-190",
+  "where": [
+   "scripts/story/bach_son_city.gd:675"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 678,
+  "func": "_camp_night",
+  "scene": "Through the Cửa Cống to the camp at night (Nghi): bà Lành, the nong, and the hand at the tents (8.3).",
+  "speaker": "Bà Lành",
+  "kind": "thoại",
+  "text": "Nhà ông Thục. Năm người, đủ cả năm mảnh đây.",
+  "code": "BS-192",
+  "where": [
+   "scripts/story/bach_son_city.gd:678"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 679,
+  "func": "_camp_night",
+  "scene": "Through the Cửa Cống to the camp at night (Nghi): bà Lành, the nong, and the hand at the tents (8.3).",
+  "speaker": "Bà Lành",
+  "kind": "thoại",
+  "text": "Đứa bé không qua nổi mùa đông đầu tiên.",
+  "code": "BS-193",
+  "where": [
+   "scripts/story/bach_son_city.gd:679"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 680,
+  "func": "_camp_night",
+  "scene": "Through the Cửa Cống to the camp at night (Nghi): bà Lành, the nong, and the hand at the tents (8.3).",
+  "speaker": "Bà Lành",
+  "kind": "thoại",
+  "text": "Sao tự dưng hỏi chuyện ấy?",
+  "code": "BS-194",
+  "where": [
+   "scripts/story/bach_son_city.gd:680"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 681,
+  "func": "_camp_night",
+  "scene": "Through the Cửa Cống to the camp at night (Nghi): bà Lành, the nong, and the hand at the tents (8.3).",
+  "speaker": "[Tên]",
+  "kind": "thoại",
+  "text": "...Không có gì ạ.",
+  "code": "BS-195",
+  "where": [
+   "scripts/story/bach_son_city.gd:681"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 682,
+  "func": "_camp_night",
+  "scene": "Through the Cửa Cống to the camp at night (Nghi): bà Lành, the nong, and the hand at the tents (8.3).",
+  "speaker": "Bà Lành",
+  "kind": "thoại",
+  "text": "Năm ấy có đoàn người phương bắc ở nhờ trại mấy tuần. Họ mang theo một đứa bé, chẳng cho ai bế. Khăn quấn nó có ô vuông như bàn cờ. Rồi cả đoàn đi về phía đèo.",
+  "code": "BS-196",
+  "where": [
+   "scripts/story/bach_son_city.gd:682"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 693,
+  "func": "_camp_night",
+  "scene": "Through the Cửa Cống to the camp at night (Nghi): bà Lành, the nong, and the hand at the tents (8.3).",
+  "speaker": "Diệu",
+  "kind": "thoại",
+  "text": "Bố tôi bị đánh roi ở Sân Tro. Chỉ vì cho một người lạ qua cổng.",
+  "code": "BS-197",
+  "where": [
+   "scripts/story/bach_son_city.gd:693"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 699,
+  "func": "_camp_night",
+  "scene": "Through the Cửa Cống to the camp at night (Nghi): bà Lành, the nong, and the hand at the tents (8.3).",
+  "speaker": "Cỏ",
+  "kind": "thoại",
+  "text": "Bà ơi! Nó lại xuống rồi!",
+  "code": "BS-198",
+  "where": [
+   "scripts/story/bach_son_city.gd:699"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 709,
+  "func": "_camp_night",
+  "scene": "Through the Cửa Cống to the camp at night (Nghi): bà Lành, the nong, and the hand at the tents (8.3).",
+  "speaker": "",
+  "kind": "dòng mở trận đánh",
+  "text": "Tay trắng thò vào lều. Mảnh Sành bò theo sau.",
+  "code": "BS-199",
+  "where": [
+   "scripts/story/bach_son_city.gd:709"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 723,
+  "func": "_camp_night",
+  "scene": "Through the Cửa Cống to the camp at night (Nghi): bà Lành, the nong, and the hand at the tents (8.3).",
+  "speaker": "Bà Lành",
+  "kind": "thoại",
+  "text": "Mấy đêm nay nó xuống sớm hơn rồi.",
+  "code": "BS-201",
+  "where": [
+   "scripts/story/bach_son_city.gd:723"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 725,
+  "func": "_camp_night",
+  "scene": "Through the Cửa Cống to the camp at night (Nghi): bà Lành, the nong, and the hand at the tents (8.3).",
+  "speaker": "(lời kể)",
+  "kind": "thoại",
+  "text": "Phải về qua Cửa Cống trước khi chuông cổng vang lên.",
+  "code": "BS-202",
+  "where": [
+   "scripts/story/bach_son_city.gd:725"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 741,
+  "func": "_retest",
+  "scene": "Nghi full: a khám sư and a man of the Ty stop them in the square. The glaze on the hand is real; who pays?",
+  "speaker": "Khám sư",
+  "kind": "thoại",
+  "text": "Người gánh hòm cho bà Sương phải không? Có người báo lên rồi. Đưa tay đây.",
+  "code": "BS-203",
+  "where": [
+   "scripts/story/bach_son_city.gd:741"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 753,
+  "func": "_retest",
+  "scene": "Nghi full: a khám sư and a man of the Ty stop them in the square. The glaze on the hand is real; who pays?",
+  "speaker": "",
+  "kind": "lựa chọn",
+  "text": "Tay cháu nứt vì gánh hòm.",
+  "code": "BS-207",
+  "where": [
+   "scripts/story/bach_son_city.gd:753"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 756,
+  "func": "_retest",
+  "scene": "Nghi full: a khám sư and a man of the Ty stop them in the square. The glaze on the hand is real; who pays?",
+  "speaker": "",
+  "kind": "lựa chọn",
+  "text": "Chị Gấm ở Nhà Rửa cũng bị xám, sao chị ấy vẫn ở trong thành?",
+  "code": "BS-208",
+  "where": [
+   "scripts/story/bach_son_city.gd:756"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 761,
+  "func": "_retest",
+  "scene": "Nghi full: a khám sư and a man of the Ty stop them in the square. The glaze on the hand is real; who pays?",
+  "speaker": "Khám sư",
+  "kind": "thoại",
+  "text": "...Giữ lại.",
+  "code": "BS-209",
+  "where": [
+   "scripts/story/bach_son_city.gd:761"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 765,
+  "func": "_retest",
+  "scene": "Nghi full: a khám sư and a man of the Ty stop them in the square. The glaze on the hand is real; who pays?",
+  "speaker": "(lời kể)",
+  "kind": "thoại",
+  "text": "Bị giữ ở Dinh Ty đến chiều. Không ai hỏi thêm câu nào.",
+  "code": "BS-210",
+  "where": [
+   "scripts/story/bach_son_city.gd:765"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 769,
+  "func": "_retest",
+  "scene": "Nghi full: a khám sư and a man of the Ty stop them in the square. The glaze on the hand is real; who pays?",
+  "speaker": "Khám sư",
+  "kind": "thoại",
+  "text": "...Xám nhạt. Đi đi.",
+  "code": "BS-211",
+  "where": [
+   "scripts/story/bach_son_city.gd:769"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_city.gd",
+  "line": 774,
+  "func": "_retest",
+  "scene": "Nghi full: a khám sư and a man of the Ty stop them in the square. The glaze on the hand is real; who pays?",
+  "speaker": "Khám sư",
+  "kind": "thoại",
+  "text": "Gấm nào? ...Thôi, đi đi. Ty sẽ xuống Nhà Rửa.",
+  "code": "BS-212",
+  "where": [
+   "scripts/story/bach_son_city.gd:774"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 17,
+  "func": "",
+  "scene": "",
+  "speaker": "",
+  "kind": "số đếm (ghép vào câu \"%s đêm chui qua Cửa Cống...\")",
+  "text": "Một",
+  "code": "BX-026",
+  "where": [
+   "scripts/story/bach_son_palace.gd:17"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 17,
+  "func": "",
+  "scene": "",
+  "speaker": "",
+  "kind": "số đếm (ghép vào câu \"%s đêm chui qua Cửa Cống...\")",
+  "text": "Hai",
+  "code": "BX-027",
+  "where": [
+   "scripts/story/bach_son_palace.gd:17"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 17,
+  "func": "",
+  "scene": "",
+  "speaker": "",
+  "kind": "số đếm (ghép vào câu \"%s đêm chui qua Cửa Cống...\")",
+  "text": "Ba",
+  "code": "BX-028",
+  "where": [
+   "scripts/story/bach_son_palace.gd:17"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 17,
+  "func": "",
+  "scene": "",
+  "speaker": "",
+  "kind": "số đếm (ghép vào câu \"%s đêm chui qua Cửa Cống...\")",
+  "text": "Bốn",
+  "code": "BX-029",
+  "where": [
+   "scripts/story/bach_son_palace.gd:17"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 17,
+  "func": "",
+  "scene": "",
+  "speaker": "",
+  "kind": "số đếm (ghép vào câu \"%s đêm chui qua Cửa Cống...\")",
+  "text": "Năm",
+  "code": "BX-030",
+  "where": [
+   "scripts/story/bach_son_palace.gd:17"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 80,
+  "func": "_arrest",
+  "scene": "",
+  "speaker": "Người áo lam",
+  "kind": "thoại",
+  "text": "Thưa Chánh Ty, người này.",
+  "code": "BS-284",
+  "where": [
+   "scripts/story/bach_son_palace.gd:80"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 81,
+  "func": "_arrest",
+  "scene": "",
+  "speaker": "Chánh Ty",
+  "kind": "thoại",
+  "text": "Người gánh hòm của bà Sương.",
+  "code": "BS-285",
+  "where": [
+   "scripts/story/bach_son_palace.gd:81"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 84,
+  "func": "_arrest",
+  "scene": "",
+  "speaker": "Người áo lam",
+  "kind": "thoại",
+  "text": "%s đêm chui qua Cửa Cống xuống trại. Có người thấy.",
+  "code": "BX-031",
+  "where": [
+   "scripts/story/bach_son_palace.gd:84"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 86,
+  "func": "_arrest",
+  "scene": "",
+  "speaker": "Người áo lam",
+  "kind": "thoại",
+  "text": "Tự khai bị Nghiệt chạm. Thử lại vẫn xám.",
+  "code": "BS-287",
+  "where": [
+   "scripts/story/bach_son_palace.gd:86"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 88,
+  "func": "_arrest",
+  "scene": "",
+  "speaker": "Người áo lam",
+  "kind": "thoại",
+  "text": "Lật Sổ Tro ở Dinh Ty lúc thư lại đi vắng.",
+  "code": "BS-288",
+  "where": [
+   "scripts/story/bach_son_palace.gd:88"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 89,
+  "func": "_arrest",
+  "scene": "",
+  "speaker": "Chánh Ty",
+  "kind": "thoại",
+  "text": "Theo luật, hôm nay người này phải ra cổng.",
+  "code": "BS-289",
+  "where": [
+   "scripts/story/bach_son_palace.gd:89"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 90,
+  "func": "_arrest",
+  "scene": "",
+  "speaker": "Chánh Ty",
+  "kind": "thoại",
+  "text": "Nhưng Bà muốn gặp người từ Vô Danh Cốc.",
+  "code": "BS-290",
+  "where": [
+   "scripts/story/bach_son_palace.gd:90"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 91,
+  "func": "_arrest",
+  "scene": "",
+  "speaker": "Chánh Ty",
+  "kind": "thoại",
+  "text": "Đi sau tôi ba bước. Đừng để chạm vào ai.",
+  "code": "BS-291",
+  "where": [
+   "scripts/story/bach_son_palace.gd:91"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 107,
+  "func": "_up",
+  "scene": "",
+  "speaker": "(lời kể)",
+  "kind": "thoại",
+  "text": "Lên mỗi tầng, người đi đường dạt sang hai bên. Không ai nhìn người đi sau Chánh Ty.",
+  "code": "BS-292",
+  "where": [
+   "scripts/story/bach_son_palace.gd:107"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 124,
+  "func": "_up",
+  "scene": "",
+  "speaker": "(lời kể)",
+  "kind": "thoại",
+  "text": "Một bà già áo trắng đặt bát cơm lên bậc cửa rồi lùi vào trong. Bát cơm hôm qua vẫn còn nguyên.",
+  "code": "BS-293",
+  "where": [
+   "scripts/story/bach_son_palace.gd:124"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 131,
+  "func": "_up",
+  "scene": "",
+  "speaker": "Chánh Ty",
+  "kind": "thoại",
+  "text": "Thưa Bà. Người từ Vô Danh Cốc.",
+  "code": "BS-294",
+  "where": [
+   "scripts/story/bach_son_palace.gd:131"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 132,
+  "func": "_up",
+  "scene": "",
+  "speaker": "Trong điện",
+  "kind": "thoại",
+  "text": "Cho vào.",
+  "code": "BS-295",
+  "where": [
+   "scripts/story/bach_son_palace.gd:132"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 133,
+  "func": "_up",
+  "scene": "",
+  "speaker": "Trong điện",
+  "kind": "thoại",
+  "text": "Ngọc Khiết, ở ngoài.",
+  "code": "BS-296",
+  "where": [
+   "scripts/story/bach_son_palace.gd:133"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 134,
+  "func": "_up",
+  "scene": "",
+  "speaker": "Chánh Ty",
+  "kind": "thoại",
+  "text": "Thưa Bà, người này đã...",
+  "code": "BS-297",
+  "where": [
+   "scripts/story/bach_son_palace.gd:134"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 135,
+  "func": "_up",
+  "scene": "",
+  "speaker": "Trong điện",
+  "kind": "thoại",
+  "text": "Ở ngoài.",
+  "code": "BS-298",
+  "where": [
+   "scripts/story/bach_son_palace.gd:135"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 150,
+  "func": "_hall",
+  "scene": "",
+  "speaker": "(lời kể)",
+  "kind": "thoại",
+  "text": "Gian điện rộng, trống và lạnh. Tường trắng, chân tường ốp sứ. Một người đứng quay lưng bên chậu nước, đang rửa tay.",
+  "code": "BS-299",
+  "where": [
+   "scripts/story/bach_son_palace.gd:150"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 155,
+  "func": "_hall",
+  "scene": "",
+  "speaker": "",
+  "kind": "thẻ tên",
+  "text": "BĂNG TÂM",
+  "code": "BX-032",
+  "where": [
+   "scripts/story/bach_son_palace.gd:155"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 155,
+  "func": "_hall",
+  "scene": "",
+  "speaker": "",
+  "kind": "thẻ tên",
+  "text": "Vị Tự của Bạch Sơn",
+  "code": "BS-300",
+  "where": [
+   "scripts/story/bach_son_palace.gd:155"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 156,
+  "func": "_hall",
+  "scene": "",
+  "speaker": "Bà Tâm",
+  "kind": "thoại",
+  "text": "Đứng đấy.",
+  "code": "BS-301",
+  "where": [
+   "scripts/story/bach_son_palace.gd:156"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 162,
+  "func": "_hall",
+  "scene": "",
+  "speaker": "(lời kể)",
+  "kind": "thoại",
+  "text": "Giữa hai người là một sải tay. Bà không bước lại gần.",
+  "code": "BS-302",
+  "where": [
+   "scripts/story/bach_son_palace.gd:162"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 163,
+  "func": "_hall",
+  "scene": "",
+  "speaker": "Bà Tâm",
+  "kind": "thoại",
+  "text": "Cho ta xem tay.",
+  "code": "BS-303",
+  "where": [
+   "scripts/story/bach_son_palace.gd:163"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 168,
+  "func": "_hall",
+  "scene": "",
+  "speaker": "",
+  "kind": "tiêu đề thẻ tranh",
+  "text": "Lòng bàn tay, chìa ra",
+  "code": "BS-304",
+  "where": [
+   "scripts/story/bach_son_palace.gd:168"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 171,
+  "func": "_hall",
+  "scene": "",
+  "speaker": "(lời kể)",
+  "kind": "thoại",
+  "text": "Bà nhìn rất lâu. Không cầm tay, cũng không nói gì về điều mình thấy.",
+  "code": "BS-305",
+  "where": [
+   "scripts/story/bach_son_palace.gd:171"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 176,
+  "func": "_hall",
+  "scene": "",
+  "speaker": "Bà Tâm",
+  "kind": "thoại",
+  "text": "Ngọc Khiết bảo con chui qua Cửa Cống.",
+  "code": "BS-306",
+  "where": [
+   "scripts/story/bach_son_palace.gd:176"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 178,
+  "func": "_hall",
+  "scene": "",
+  "speaker": "Bà Tâm",
+  "kind": "thoại",
+  "text": "Ngọc Khiết bảo con tự khai bị Nghiệt chạm.",
+  "code": "BS-307",
+  "where": [
+   "scripts/story/bach_son_palace.gd:178"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 180,
+  "func": "_hall",
+  "scene": "",
+  "speaker": "Bà Tâm",
+  "kind": "thoại",
+  "text": "Ngọc Khiết bảo con lật Sổ Tro.",
+  "code": "BS-308",
+  "where": [
+   "scripts/story/bach_son_palace.gd:180"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 181,
+  "func": "_hall",
+  "scene": "",
+  "speaker": "Bà Tâm",
+  "kind": "thoại",
+  "text": "Con lên Bạch Sơn làm gì?",
+  "code": "BS-309",
+  "where": [
+   "scripts/story/bach_son_palace.gd:181"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 182,
+  "func": "_hall",
+  "scene": "",
+  "speaker": "[Tên]",
+  "kind": "thoại",
+  "text": "Đoàn của Lúa bị đuổi khỏi đây. Cái thứ ngoài cổng đuổi theo họ tới tận cửa đèo Vô Danh Cốc.",
+  "code": "BS-310",
+  "where": [
+   "scripts/story/bach_son_palace.gd:182"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 183,
+  "func": "_hall",
+  "scene": "",
+  "speaker": "Bà Tâm",
+  "kind": "thoại",
+  "text": "Tới cột mốc thì nó dừng.",
+  "code": "BS-311",
+  "where": [
+   "scripts/story/bach_son_palace.gd:183"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 184,
+  "func": "_hall",
+  "scene": "",
+  "speaker": "[Tên]",
+  "kind": "thoại",
+  "text": "...Vâng.",
+  "code": "BS-312",
+  "where": [
+   "scripts/story/bach_son_palace.gd:184"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 185,
+  "func": "_hall",
+  "scene": "",
+  "speaker": "(lời kể)",
+  "kind": "thoại",
+  "text": "Bà im lặng một lúc.",
+  "code": "BS-313",
+  "where": [
+   "scripts/story/bach_son_palace.gd:185"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 186,
+  "func": "_hall",
+  "scene": "",
+  "speaker": "Bà Tâm",
+  "kind": "thoại",
+  "text": "Con thấy gì ở thành ta?",
+  "code": "BS-314",
+  "where": [
+   "scripts/story/bach_son_palace.gd:186"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 205,
+  "func": "_findings",
+  "scene": "What they found, said to her face (the Nhận ra they have), and what she says back. She answers what she can; where she cannot, she says nothing.",
+  "speaker": "[Tên]",
+  "kind": "thoại",
+  "text": "Sắc nào cũng do Chánh Ty soạn. Bà đóng ấn.",
+  "code": "BS-315",
+  "where": [
+   "scripts/story/bach_son_palace.gd:205"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 206,
+  "func": "_findings",
+  "scene": "What they found, said to her face (the Nhận ra they have), and what she says back. She answers what she can; where she cannot, she says nothing.",
+  "speaker": "Bà Tâm",
+  "kind": "thoại",
+  "text": "Ta đọc. Tuần nào cũng đọc.",
+  "code": "BS-316",
+  "where": [
+   "scripts/story/bach_son_palace.gd:206"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 207,
+  "func": "_findings",
+  "scene": "What they found, said to her face (the Nhận ra they have), and what she says back. She answers what she can; where she cannot, she says nothing.",
+  "speaker": "[Tên]",
+  "kind": "thoại",
+  "text": "Bà đọc báo cáo. Còn Sổ Tro thì Bà không đọc. Cột đen ba trăm năm không có lấy một nét.",
+  "code": "BS-317",
+  "where": [
+   "scripts/story/bach_son_palace.gd:207"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 208,
+  "func": "_findings",
+  "scene": "What they found, said to her face (the Nhận ra they have), and what she says back. She answers what she can; where she cannot, she says nothing.",
+  "speaker": "(lời kể)",
+  "kind": "thoại",
+  "text": "Bà không đáp.",
+  "code": "BS-318",
+  "where": [
+   "scripts/story/bach_son_palace.gd:208"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 211,
+  "func": "_findings",
+  "scene": "What they found, said to her face (the Nhận ra they have), and what she says back. She answers what she can; where she cannot, she says nothing.",
+  "speaker": "[Tên]",
+  "kind": "thoại",
+  "text": "Tro không nhận ra Nghiệt. Nó chỉ chui vào kẽ. Tay nứt vì vôi hay nước thuốc cũng ra xám.",
+  "code": "BS-319",
+  "where": [
+   "scripts/story/bach_son_palace.gd:211"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 212,
+  "func": "_findings",
+  "scene": "What they found, said to her face (the Nhận ra they have), and what she says back. She answers what she can; where she cannot, she says nothing.",
+  "speaker": "Bà Tâm",
+  "kind": "thoại",
+  "text": "Tro không biết nói dối.",
+  "code": "BS-320",
+  "where": [
+   "scripts/story/bach_son_palace.gd:212",
+   "scripts/story/bach_son_palace.gd:237"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 213,
+  "func": "_findings",
+  "scene": "What they found, said to her face (the Nhận ra they have), and what she says back. She answers what she can; where she cannot, she says nothing.",
+  "speaker": "(lời kể)",
+  "kind": "thoại",
+  "text": "Bà khép hai tay vào trong tay áo.",
+  "code": "BS-321",
+  "where": [
+   "scripts/story/bach_son_palace.gd:213"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 216,
+  "func": "_findings",
+  "scene": "What they found, said to her face (the Nhận ra they have), and what she says back. She answers what she can; where she cannot, she says nothing.",
+  "speaker": "[Tên]",
+  "kind": "thoại",
+  "text": "Người bị đuổi bị bán. Người của Ty đưa họ lên xe trắng, đếm đủ số rồi chở sang Vạn Thư.",
+  "code": "BS-322",
+  "where": [
+   "scripts/story/bach_son_palace.gd:216"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 217,
+  "func": "_findings",
+  "scene": "What they found, said to her face (the Nhận ra they have), and what she says back. She answers what she can; where she cannot, she says nothing.",
+  "speaker": "Bà Tâm",
+  "kind": "thoại",
+  "text": "Xe nào?",
+  "code": "BS-323",
+  "where": [
+   "scripts/story/bach_son_palace.gd:217"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 218,
+  "func": "_findings",
+  "scene": "What they found, said to her face (the Nhận ra they have), and what she says back. She answers what she can; where she cannot, she says nothing.",
+  "speaker": "[Tên]",
+  "kind": "thoại",
+  "text": "Xe của bà Sương. Năm nào bà ấy cũng lên.",
+  "code": "BS-324",
+  "where": [
+   "scripts/story/bach_son_palace.gd:218"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 219,
+  "func": "_findings",
+  "scene": "What they found, said to her face (the Nhận ra they have), and what she says back. She answers what she can; where she cannot, she says nothing.",
+  "speaker": "(lời kể)",
+  "kind": "thoại",
+  "text": "Bà im rất lâu.",
+  "code": "BS-325",
+  "where": [
+   "scripts/story/bach_son_palace.gd:219"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 220,
+  "func": "_findings",
+  "scene": "What they found, said to her face (the Nhận ra they have), and what she says back. She answers what she can; where she cannot, she says nothing.",
+  "speaker": "Bà Tâm",
+  "kind": "thoại",
+  "text": "Người đã nhiễm thì đằng nào cũng hóa sứ.",
+  "code": "BS-326",
+  "where": [
+   "scripts/story/bach_son_palace.gd:220"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 224,
+  "func": "_findings",
+  "scene": "What they found, said to her face (the Nhận ra they have), and what she says back. She answers what she can; where she cannot, she says nothing.",
+  "speaker": "[Tên]",
+  "kind": "thoại",
+  "text": "Hồi trước, người ra xám được giữ lại chờ Bà rửa men. Ông Sẹo ở Nhà Rửa vẫn còn sẹo.",
+  "code": "BS-327",
+  "where": [
+   "scripts/story/bach_son_palace.gd:224"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 225,
+  "func": "_findings",
+  "scene": "What they found, said to her face (the Nhận ra they have), and what she says back. She answers what she can; where she cannot, she says nothing.",
+  "speaker": "Bà Tâm",
+  "kind": "thoại",
+  "text": "Ông ta còn sống à?",
+  "code": "BS-328",
+  "where": [
+   "scripts/story/bach_son_palace.gd:225"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 227,
+  "func": "_findings",
+  "scene": "What they found, said to her face (the Nhận ra they have), and what she says back. She answers what she can; where she cannot, she says nothing.",
+  "speaker": "[Tên]",
+  "kind": "thoại",
+  "text": "...Ông ấy bị đuổi rồi. Hôm kia.",
+  "code": "BS-329",
+  "where": [
+   "scripts/story/bach_son_palace.gd:227"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 228,
+  "func": "_findings",
+  "scene": "What they found, said to her face (the Nhận ra they have), and what she says back. She answers what she can; where she cannot, she says nothing.",
+  "speaker": "(lời kể)",
+  "kind": "thoại",
+  "text": "Bà không hỏi ai đã báo tin.",
+  "code": "BS-330",
+  "where": [
+   "scripts/story/bach_son_palace.gd:228"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 230,
+  "func": "_findings",
+  "scene": "What they found, said to her face (the Nhận ra they have), and what she says back. She answers what she can; where she cannot, she says nothing.",
+  "speaker": "Bà Tâm",
+  "kind": "thoại",
+  "text": "Cổ tay trái. Hình cánh mai.",
+  "code": "BS-331",
+  "where": [
+   "scripts/story/bach_son_palace.gd:230"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 233,
+  "func": "_findings",
+  "scene": "What they found, said to her face (the Nhận ra they have), and what she says back. She answers what she can; where she cannot, she says nothing.",
+  "speaker": "[Tên]",
+  "kind": "thoại",
+  "text": "Cái ngoài cổng không phải Sứ Giả. Nó là Nghiệt, sinh ra từ chính những ô cửa trong thành này.",
+  "code": "BS-332",
+  "where": [
+   "scripts/story/bach_son_palace.gd:233"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 234,
+  "func": "_findings",
+  "scene": "What they found, said to her face (the Nhận ra they have), and what she says back. She answers what she can; where she cannot, she says nothing.",
+  "speaker": "Bà Tâm",
+  "kind": "thoại",
+  "text": "Ra quảng trường nói câu ấy, người ta sẽ không để con nói hết đâu.",
+  "code": "BS-333",
+  "where": [
+   "scripts/story/bach_son_palace.gd:234"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 236,
+  "func": "_findings",
+  "scene": "What they found, said to her face (the Nhận ra they have), and what she says back. She answers what she can; where she cannot, she says nothing.",
+  "speaker": "[Tên]",
+  "kind": "thoại",
+  "text": "Người ta bị đuổi chỉ vì tay nứt.",
+  "code": "BS-334",
+  "where": [
+   "scripts/story/bach_son_palace.gd:236"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 243,
+  "func": "_offer",
+  "scene": "",
+  "speaker": "Bà Tâm",
+  "kind": "thoại",
+  "text": "Con muốn gì?",
+  "code": "BS-336",
+  "where": [
+   "scripts/story/bach_son_palace.gd:243"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 244,
+  "func": "_offer",
+  "scene": "",
+  "speaker": "[Tên]",
+  "kind": "thoại",
+  "text": "Bỏ các sắc. Mở cổng cho người ta về.",
+  "code": "BS-337",
+  "where": [
+   "scripts/story/bach_son_palace.gd:244"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 245,
+  "func": "_offer",
+  "scene": "",
+  "speaker": "Bà Tâm",
+  "kind": "thoại",
+  "text": "Mở cổng thì thứ ngoài kia cũng vào theo.",
+  "code": "BS-338",
+  "where": [
+   "scripts/story/bach_son_palace.gd:245"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 246,
+  "func": "_offer",
+  "scene": "",
+  "speaker": "Bà Tâm",
+  "kind": "thoại",
+  "text": "Ta đã thấy một lần.",
+  "code": "BS-339",
+  "where": [
+   "scripts/story/bach_son_palace.gd:246"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 250,
+  "func": "_offer",
+  "scene": "",
+  "speaker": "",
+  "kind": "lựa chọn",
+  "text": "Kể về phiến đá ở nền cổng cũ.",
+  "code": "BS-340",
+  "where": [
+   "scripts/story/bach_son_palace.gd:250"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 250,
+  "func": "_offer",
+  "scene": "",
+  "speaker": "",
+  "kind": "lựa chọn",
+  "text": "Không kể.",
+  "code": "BS-341",
+  "where": [
+   "scripts/story/bach_son_palace.gd:250"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 252,
+  "func": "_offer",
+  "scene": "",
+  "speaker": "[Tên]",
+  "kind": "thoại",
+  "text": "Dưới lớp vôi ở nền cổng cũ có một phiến đá. Trên đó khắc một chữ Khê.",
+  "code": "BS-342",
+  "where": [
+   "scripts/story/bach_son_palace.gd:252"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 256,
+  "func": "_offer",
+  "scene": "",
+  "speaker": "Bà Tâm",
+  "kind": "thoại",
+  "text": "Mấy vạch?",
+  "code": "BS-343",
+  "where": [
+   "scripts/story/bach_son_palace.gd:256"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 257,
+  "func": "_offer",
+  "scene": "",
+  "speaker": "[Tên]",
+  "kind": "thoại",
+  "text": "Ba.",
+  "code": "BS-344",
+  "where": [
+   "scripts/story/bach_son_palace.gd:257"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 258,
+  "func": "_offer",
+  "scene": "",
+  "speaker": "(lời kể)",
+  "kind": "thoại",
+  "text": "Bà không hỏi thêm.",
+  "code": "BS-345",
+  "where": [
+   "scripts/story/bach_son_palace.gd:258"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 262,
+  "func": "_offer",
+  "scene": "",
+  "speaker": "Bà Tâm",
+  "kind": "thoại",
+  "text": "Ta sẽ làm thế này.",
+  "code": "BS-346",
+  "where": [
+   "scripts/story/bach_son_palace.gd:262"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 263,
+  "func": "_offer",
+  "scene": "",
+  "speaker": "Bà Tâm",
+  "kind": "thoại",
+  "text": "Từ mai, tro chỉ giữ người thật sự bị chạm. Ai mới bị đuổi theo sắc họ hàng thì cho về dần. Không đọc sắc, không dán thông báo. Không ai cần biết.",
+  "code": "BS-347",
+  "where": [
+   "scripts/story/bach_son_palace.gd:263"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 264,
+  "func": "_offer",
+  "scene": "",
+  "speaker": "Bà Tâm",
+  "kind": "thoại",
+  "text": "Ty vẫn là Ty. Ngọc Khiết vẫn là Chánh Ty.",
+  "code": "BS-348",
+  "where": [
+   "scripts/story/bach_son_palace.gd:264"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 265,
+  "func": "_offer",
+  "scene": "",
+  "speaker": "Bà Tâm",
+  "kind": "thoại",
+  "text": "Đổi lại, con không nói với ai.",
+  "code": "BS-349",
+  "where": [
+   "scripts/story/bach_son_palace.gd:265"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 269,
+  "func": "_offer",
+  "scene": "",
+  "speaker": "Bà Tâm",
+  "kind": "thoại",
+  "text": "Báo cáo tuần này có tên con.",
+  "code": "BS-350",
+  "where": [
+   "scripts/story/bach_son_palace.gd:269"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 272,
+  "func": "_offer",
+  "scene": "",
+  "speaker": "Bà Tâm",
+  "kind": "thoại",
+  "text": "Ở cổng, con đỡ hòm từ tay một người khiêng. Người ấy ra cổng, con vào.",
+  "code": "BS-351",
+  "where": [
+   "scripts/story/bach_son_palace.gd:272"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 274,
+  "func": "_offer",
+  "scene": "",
+  "speaker": "Bà Tâm",
+  "kind": "thoại",
+  "text": "Con chỉ cho người áo lam một người ở Nhà Rửa.",
+  "code": "BS-352",
+  "where": [
+   "scripts/story/bach_son_palace.gd:274"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 275,
+  "func": "_offer",
+  "scene": "",
+  "speaker": "Bà Tâm",
+  "kind": "thoại",
+  "text": "Con cũng đã đẩy người khác ra ngoài cổng.",
+  "code": "BS-353",
+  "where": [
+   "scripts/story/bach_son_palace.gd:275"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 278,
+  "func": "_offer",
+  "scene": "",
+  "speaker": "",
+  "kind": "lựa chọn",
+  "text": "Không. Mai ở Lễ Quét Vôi, cháu sẽ nói hết trước mọi người.",
+  "code": "BS-354",
+  "where": [
+   "scripts/story/bach_son_palace.gd:278"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 278,
+  "func": "_offer",
+  "scene": "",
+  "speaker": "",
+  "kind": "lựa chọn",
+  "text": "...Cháu sẽ không nói.",
+  "code": "BS-355",
+  "where": [
+   "scripts/story/bach_son_palace.gd:278"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 289,
+  "func": "_leave",
+  "scene": "",
+  "speaker": "Bà Tâm",
+  "kind": "thoại",
+  "text": "Con tin chỉ cần nói ra là đủ sao?",
+  "code": "BS-356",
+  "where": [
+   "scripts/story/bach_son_palace.gd:289"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 290,
+  "func": "_leave",
+  "scene": "",
+  "speaker": "(lời kể)",
+  "kind": "thoại",
+  "text": "Bà quay lại chậu nước.",
+  "code": "BS-357",
+  "where": [
+   "scripts/story/bach_son_palace.gd:290"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 295,
+  "func": "_leave",
+  "scene": "",
+  "speaker": "Bà Tâm",
+  "kind": "thoại",
+  "text": "Ngọc Khiết. Để người này đi. Hôm nay không ai ra cổng.",
+  "code": "BS-358",
+  "where": [
+   "scripts/story/bach_son_palace.gd:295"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 301,
+  "func": "_leave",
+  "scene": "",
+  "speaker": "Chánh Ty",
+  "kind": "thoại",
+  "text": "...Thưa Bà.",
+  "code": "BS-359",
+  "where": [
+   "scripts/story/bach_son_palace.gd:301"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 304,
+  "func": "_leave",
+  "scene": "",
+  "speaker": "Chánh Ty",
+  "kind": "thoại",
+  "text": "Mai ở quảng trường, đứng gần người này.",
+  "code": "BS-360",
+  "where": [
+   "scripts/story/bach_son_palace.gd:304"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 305,
+  "func": "_leave",
+  "scene": "",
+  "speaker": "Người áo lam",
+  "kind": "thoại",
+  "text": "Dạ.",
+  "code": "BS-361",
+  "where": [
+   "scripts/story/bach_son_palace.gd:305"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 315,
+  "func": "_variant_b",
+  "scene": "",
+  "speaker": "Bà Tâm",
+  "kind": "thoại",
+  "text": "Ừ.",
+  "code": "BS-362",
+  "where": [
+   "scripts/story/bach_son_palace.gd:315"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 316,
+  "func": "_variant_b",
+  "scene": "",
+  "speaker": "Bà Tâm",
+  "kind": "thoại",
+  "text": "Ngọc Khiết. Để người này đi. Từ mai làm như ta dặn.",
+  "code": "BS-363",
+  "where": [
+   "scripts/story/bach_son_palace.gd:316"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 320,
+  "func": "_variant_b",
+  "scene": "",
+  "speaker": "Chánh Ty",
+  "kind": "thoại",
+  "text": "Thưa Bà.",
+  "code": "BS-364",
+  "where": [
+   "scripts/story/bach_son_palace.gd:320"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 325,
+  "func": "_variant_b",
+  "scene": "",
+  "speaker": "",
+  "kind": "thẻ chương / thời gian",
+  "text": "Lễ Quét Vôi",
+  "code": "BS-365",
+  "where": [
+   "scripts/story/bach_son_palace.gd:325"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 341,
+  "func": "_variant_b",
+  "scene": "",
+  "speaker": "(lời kể)",
+  "kind": "thoại",
+  "text": "Năm ấy, Lễ Quét Vôi không đọc sắc nào. Người ta quét vôi lại bể rửa rồi về nhà.",
+  "code": "BS-366",
+  "where": [
+   "scripts/story/bach_son_palace.gd:341"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 369,
+  "func": "_variant_b",
+  "scene": "",
+  "speaker": "(lời kể)",
+  "kind": "thoại",
+  "text": "Chiều tối, cổng hé ra một khe. Mấy người trong trại đi vào, cúi đầu, không ai nói gì. Ông Sẹo đi sau cùng.",
+  "code": "BS-367",
+  "where": [
+   "scripts/story/bach_son_palace.gd:369"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 371,
+  "func": "_variant_b",
+  "scene": "",
+  "speaker": "(lời kể)",
+  "kind": "thoại",
+  "text": "Chiều tối, cổng hé ra một khe. Mấy người trong trại đi vào, cúi đầu, không ai nói gì.",
+  "code": "BS-368",
+  "where": [
+   "scripts/story/bach_son_palace.gd:371"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 382,
+  "func": "_variant_b",
+  "scene": "",
+  "speaker": "(lời kể)",
+  "kind": "thoại",
+  "text": "Đêm ấy, dưới trại vẫn có tiếng gõ trên sứ. Tiếng gõ chẳng thưa đi.",
+  "code": "BS-369",
+  "where": [
+   "scripts/story/bach_son_palace.gd:382"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 392,
+  "func": "_variant_b",
+  "scene": "",
+  "speaker": "",
+  "kind": "tiêu đề thẻ tranh",
+  "text": "Tờ giấy gấp đôi",
+  "code": "BS-370",
+  "where": [
+   "scripts/story/bach_son_palace.gd:392"
+  ]
+ },
+ {
+  "file": "scripts/story/bach_son_palace.gd",
+  "line": 394,
+  "func": "_variant_b",
+  "scene": "",
+  "speaker": "(lời kể)",
+  "kind": "thoại",
+  "text": "Bà hầu câm đưa tờ giấy rồi quay lên. Bà Tâm không xuống.",
+  "code": "BS-371",
+  "where": [
+   "scripts/story/bach_son_palace.gd:394"
+  ]
+ },
+ {
+  "file": "scripts/ui/journal.gd",
+  "line": 37,
+  "func": "_ready",
+  "scene": "",
+  "speaker": "",
+  "kind": "chữ giao diện",
+  "text": "Sổ ghi",
+  "code": "BS-239",
+  "where": [
+   "scripts/ui/journal.gd:37"
+  ]
+ },
+ {
+  "file": "scripts/ui/journal.gd",
+  "line": 51,
+  "func": "_ready",
+  "scene": "",
+  "speaker": "",
+  "kind": "chữ giao diện",
+  "text": "Tab: đóng",
+  "code": "BS-243",
+  "where": [
+   "scripts/ui/journal.gd:51"
+  ]
+ },
+ {
+  "file": "scripts/ui/journal.gd",
+  "line": 79,
+  "func": "_fill",
+  "scene": "",
+  "speaker": "",
+  "kind": "Sổ ghi (giao diện)",
+  "text": "Nhận ra",
+  "code": "BS-240",
+  "where": [
+   "scripts/ui/journal.gd:79"
+  ]
+ },
+ {
+  "file": "scripts/ui/journal.gd",
+  "line": 81,
+  "func": "_fill",
+  "scene": "",
+  "speaker": "",
+  "kind": "Sổ ghi (giao diện)",
+  "text": "(chưa có)",
+  "code": "BS-242",
+  "where": [
+   "scripts/ui/journal.gd:81",
+   "scripts/ui/journal.gd:87"
+  ]
+ },
+ {
+  "file": "scripts/ui/journal.gd",
+  "line": 85,
+  "func": "_fill",
+  "scene": "",
+  "speaker": "",
+  "kind": "Sổ ghi (giao diện)",
+  "text": "Điều thấy",
+  "code": "BS-241",
+  "where": [
+   "scripts/ui/journal.gd:85"
+  ]
+ },
+ {
+  "file": "scripts/ui/ash_test.gd",
+  "line": 105,
+  "func": "open",
+  "scene": "",
+  "speaker": "",
+  "kind": "tiêu đề thẻ tranh",
+  "text": "Lòng bàn tay, cổ tay",
+  "code": "BS-64b",
+  "where": [
+   "scripts/ui/ash_test.gd:105"
+  ]
+ },
+ {
+  "file": "scripts/ui/bs_status.gd",
+  "line": 39,
+  "func": "_ready",
+  "scene": "",
+  "speaker": "",
+  "kind": "chữ giao diện",
+  "text": "Nghi",
+  "code": "BS-237",
+  "where": [
+   "scripts/ui/bs_status.gd:39"
+  ]
+ },
+ {
+  "file": "scripts/ui/bs_status.gd",
+  "line": 58,
+  "func": "_ready",
+  "scene": "",
+  "speaker": "",
+  "kind": "chữ giao diện",
+  "text": "Tab: Sổ ghi",
+  "code": "BS-238",
+  "where": [
+   "scripts/ui/bs_status.gd:58"
+  ]
+ }
+]
